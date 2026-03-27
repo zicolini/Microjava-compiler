@@ -1,0 +1,358 @@
+INFO  17:32:40,414 - Compiling source file: C:\Users\zd200160d\Desktop\pp1\domaci\workspace\MJCompiler\test\program.mj
+INFO  17:32:40,610 - #2 program
+INFO  17:32:40,611 - #45 Test
+INFO  17:32:40,611 - #9 const
+INFO  17:32:40,612 - #45 int
+INFO  17:32:40,612 - #45 intKonstanta
+INFO  17:32:40,613 - #17 =
+INFO  17:32:40,613 - #43 7
+INFO  17:32:40,613 - #20 ;
+INFO  17:32:40,614 - #9 const
+INFO  17:32:40,615 - #45 char
+INFO  17:32:40,615 - #45 karakter
+INFO  17:32:40,615 - #17 =
+INFO  17:32:40,615 - #46 a
+INFO  17:32:40,615 - #20 ;
+INFO  17:32:40,616 - #9 const
+INFO  17:32:40,616 - #45 bool
+INFO  17:32:40,616 - #45 boolean
+INFO  17:32:40,616 - #17 =
+INFO  17:32:40,616 - #44 1
+INFO  17:32:40,616 - #20 ;
+INFO  17:32:40,616 - #26 {
+INFO  17:32:40,616 - #45 int
+INFO  17:32:40,618 - #45 inkrement
+INFO  17:32:40,618 - #22 (
+INFO  17:32:40,618 - #45 int
+INFO  17:32:40,618 - #45 a
+INFO  17:32:40,618 - #18 ,
+INFO  17:32:40,618 - #45 int
+INFO  17:32:40,618 - #45 inc
+INFO  17:32:40,618 - #23 )
+INFO  17:32:40,619 - #45 int
+INFO  17:32:40,621 - #45 pom
+INFO  17:32:40,621 - #20 ;
+INFO  17:32:40,621 - #26 {
+INFO  17:32:40,622 - #7 if
+INFO  17:32:40,623 - #22 (
+INFO  17:32:40,623 - #45 inc
+INFO  17:32:40,623 - #33 ==
+INFO  17:32:40,624 - #43 1
+INFO  17:32:40,635 - #23 )
+INFO  17:32:40,639 - #45 pom
+INFO  17:32:40,641 - #17 =
+INFO  17:32:40,641 - #43 1
+INFO  17:32:40,647 - #20 ;
+INFO  17:32:40,648 - #8 else
+INFO  17:32:40,649 - #7 if
+INFO  17:32:40,649 - #22 (
+INFO  17:32:40,649 - #45 inc
+INFO  17:32:40,650 - #33 ==
+INFO  17:32:40,650 - #43 2
+INFO  17:32:40,650 - #23 )
+INFO  17:32:40,650 - #45 pom
+INFO  17:32:40,650 - #17 =
+INFO  17:32:40,651 - #45 a
+INFO  17:32:40,651 - #20 ;
+INFO  17:32:40,651 - #45 a
+INFO  17:32:40,653 - #19 .
+INFO  17:32:40,653 - #45 b
+INFO  17:32:40,654 - #24 [
+INFO  17:32:40,654 - #43 4
+INFO  17:32:40,654 - #25 ]
+INFO  17:32:40,654 - #19 .
+INFO  17:32:40,655 - #45 c
+INFO  17:32:40,655 - #19 .
+INFO  17:32:40,655 - #45 a
+INFO  17:32:40,655 - #24 [
+INFO  17:32:40,655 - #43 3
+INFO  17:32:40,655 - #25 ]
+INFO  17:32:40,655 - #17 =
+INFO  17:32:40,655 - #43 2
+INFO  17:32:40,655 - #20 ;
+INFO  17:32:40,655 - #5 return
+INFO  17:32:40,655 - #45 sum
+INFO  17:32:40,655 - #22 (
+INFO  17:32:40,656 - #45 a
+INFO  17:32:40,656 - #18 ,
+INFO  17:32:40,656 - #45 pom
+INFO  17:32:40,656 - #23 )
+INFO  17:32:40,657 - #20 ;
+INFO  17:32:40,658 - #27 }
+INFO  17:32:40,658 - #27 }
+INFO  17:32:40,664 - Program(
+ Test
+  DecListDef(
+    DecListDef(
+      DecListDef(
+        DecListEps(
+        ) [DecListEps]
+        DecListItemConst(
+          ConstDecl(
+            Type(
+             int
+            ) [Type]
+            ConstBase(
+             intKonstanta
+              ConstN(
+               7
+              ) [ConstN]
+            ) [ConstBase]
+          ) [ConstDecl]
+        ) [DecListItemConst]
+      ) [DecListDef]
+      DecListItemConst(
+        ConstDecl(
+          Type(
+           char
+          ) [Type]
+          ConstBase(
+           karakter
+            ConstC(
+             a
+            ) [ConstC]
+          ) [ConstBase]
+        ) [ConstDecl]
+      ) [DecListItemConst]
+    ) [DecListDef]
+    DecListItemConst(
+      ConstDecl(
+        Type(
+         bool
+        ) [Type]
+        ConstBase(
+         boolean
+          ConstB(
+           1
+          ) [ConstB]
+        ) [ConstBase]
+      ) [ConstDecl]
+    ) [DecListItemConst]
+  ) [DecListDef]
+  MethDeclListRec(
+    MethDeclListBase(
+    ) [MethDeclListBase]
+    MethDecl(
+      MethodSignature(
+        MethTypeT(
+          Type(
+           int
+          ) [Type]
+        ) [MethTypeT]
+       inkrement
+        MethParsForm(
+          FormParsRec(
+            FormParsBase(
+              Type(
+               int
+              ) [Type]
+             a
+            ) [FormParsBase]
+            Type(
+             int
+            ) [Type]
+           inc
+          ) [FormParsRec]
+        ) [MethParsForm]
+      ) [MethodSignature]
+      VarDeclListRec(
+        VarDeclListBase(
+        ) [VarDeclListBase]
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          VarBase(
+           pom
+          ) [VarBase]
+        ) [VarDecl]
+      ) [VarDeclListRec]
+      StmtListRec(
+        StmtListRec(
+          StmtListRec(
+            StmtListBase(
+            ) [StmtListBase]
+            StmtIfElse(
+              ConditionBase(
+                CondTermBase(
+                  CondFactOp(
+                    ExprBasePos(
+                      TermBase(
+                        FactorDes(
+                          DesignatorBase(
+                           inc
+                          ) [DesignatorBase]
+                        ) [FactorDes]
+                      ) [TermBase]
+                    ) [ExprBasePos]
+                    RelopEqu(
+                    ) [RelopEqu]
+                    ExprBasePos(
+                      TermBase(
+                        FactorConst(
+                          ConstN(
+                           1
+                          ) [ConstN]
+                        ) [FactorConst]
+                      ) [TermBase]
+                    ) [ExprBasePos]
+                  ) [CondFactOp]
+                ) [CondTermBase]
+              ) [ConditionBase]
+              StmtDes(
+                DesStmtAssExpr(
+                  DesignatorBase(
+                   pom
+                  ) [DesignatorBase]
+                  Assignop(
+                  ) [Assignop]
+                  ExprBasePos(
+                    TermBase(
+                      FactorConst(
+                        ConstN(
+                         1
+                        ) [ConstN]
+                      ) [FactorConst]
+                    ) [TermBase]
+                  ) [ExprBasePos]
+                ) [DesStmtAssExpr]
+              ) [StmtDes]
+              StmtIf(
+                ConditionBase(
+                  CondTermBase(
+                    CondFactOp(
+                      ExprBasePos(
+                        TermBase(
+                          FactorDes(
+                            DesignatorBase(
+                             inc
+                            ) [DesignatorBase]
+                          ) [FactorDes]
+                        ) [TermBase]
+                      ) [ExprBasePos]
+                      RelopEqu(
+                      ) [RelopEqu]
+                      ExprBasePos(
+                        TermBase(
+                          FactorConst(
+                            ConstN(
+                             2
+                            ) [ConstN]
+                          ) [FactorConst]
+                        ) [TermBase]
+                      ) [ExprBasePos]
+                    ) [CondFactOp]
+                  ) [CondTermBase]
+                ) [ConditionBase]
+                StmtDes(
+                  DesStmtAssExpr(
+                    DesignatorBase(
+                     pom
+                    ) [DesignatorBase]
+                    Assignop(
+                    ) [Assignop]
+                    ExprBasePos(
+                      TermBase(
+                        FactorDes(
+                          DesignatorBase(
+                           a
+                          ) [DesignatorBase]
+                        ) [FactorDes]
+                      ) [TermBase]
+                    ) [ExprBasePos]
+                  ) [DesStmtAssExpr]
+                ) [StmtDes]
+              ) [StmtIf]
+            ) [StmtIfElse]
+          ) [StmtListRec]
+          StmtDes(
+            DesStmtAssExpr(
+              DesignatorArr(
+                DesignatorDot(
+                  DesignatorDot(
+                    DesignatorArr(
+                      DesignatorDot(
+                        DesignatorBase(
+                         a
+                        ) [DesignatorBase]
+                       b
+                      ) [DesignatorDot]
+                      ExprBasePos(
+                        TermBase(
+                          FactorConst(
+                            ConstN(
+                             4
+                            ) [ConstN]
+                          ) [FactorConst]
+                        ) [TermBase]
+                      ) [ExprBasePos]
+                    ) [DesignatorArr]
+                   c
+                  ) [DesignatorDot]
+                 a
+                ) [DesignatorDot]
+                ExprBasePos(
+                  TermBase(
+                    FactorConst(
+                      ConstN(
+                       3
+                      ) [ConstN]
+                    ) [FactorConst]
+                  ) [TermBase]
+                ) [ExprBasePos]
+              ) [DesignatorArr]
+              Assignop(
+              ) [Assignop]
+              ExprBasePos(
+                TermBase(
+                  FactorConst(
+                    ConstN(
+                     2
+                    ) [ConstN]
+                  ) [FactorConst]
+                ) [TermBase]
+              ) [ExprBasePos]
+            ) [DesStmtAssExpr]
+          ) [StmtDes]
+        ) [StmtListRec]
+        StmtRetExpr(
+          ExprBasePos(
+            TermBase(
+              FactorPars(
+                DesignatorBase(
+                 sum
+                ) [DesignatorBase]
+                ParenParsPars(
+                  ActParsRec(
+                    ActParsBase(
+                      ExprBasePos(
+                        TermBase(
+                          FactorDes(
+                            DesignatorBase(
+                             a
+                            ) [DesignatorBase]
+                          ) [FactorDes]
+                        ) [TermBase]
+                      ) [ExprBasePos]
+                    ) [ActParsBase]
+                    ExprBasePos(
+                      TermBase(
+                        FactorDes(
+                          DesignatorBase(
+                           pom
+                          ) [DesignatorBase]
+                        ) [FactorDes]
+                      ) [TermBase]
+                    ) [ExprBasePos]
+                  ) [ActParsRec]
+                ) [ParenParsPars]
+              ) [FactorPars]
+            ) [TermBase]
+          ) [ExprBasePos]
+        ) [StmtRetExpr]
+      ) [StmtListRec]
+    ) [MethDecl]
+  ) [MethDeclListRec]
+) [Program]
+INFO  17:32:40,665 - =====================================================================
+INFO  17:32:40,665 - Parsiranje uspesno zavrseno!

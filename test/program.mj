@@ -1,0 +1,111 @@
+program Test
+
+const int intKonstanta = 7, broj = 2;
+const char karakter = 'a';
+const bool boolean = true;
+int niz[], brojka;
+char g;
+bool nizBool[];
+set s1, s2;
+int a;
+
+{
+
+	void addAllSetHelper(set s, int arr[]) int size; int i;{
+		size = arr[0];
+		if(size == 1) return;
+		i = 1;
+		do{
+			add(s, arr[i]);
+			i++;
+		}
+		while(i < size);
+	}
+
+	void unionHelper(set s, int arr1[], int arr2[]){
+		addAllSetHelper(s, arr1);
+		addAllSetHelper(s, arr2);
+	}
+
+	int dummy(int a){
+		return a;
+	}
+	
+	int mapHelper(int arr[]) int sum; int size; int i;{
+		size = len(arr);
+		do{
+			sum = sum + dummy(arr[i]);
+			i++;
+		}
+		while(i < size);
+		return sum;
+	}
+	
+	void addAllHelper(set s, int arr[]) int size; int i;
+	{
+		size = len(arr);
+		i = 0;
+		do{
+			add(s, arr[i]);
+			i++;
+		}
+		while(i < size);
+	}
+	
+	void main() set s3;{
+		s1 = new set[5];
+		add(s1, 1);
+		add(s1, 8);
+		add(s1, 10);
+		print(s1);
+		print(eol);
+		s2 = new set[7];
+		niz = new int[7];
+		niz[0] = 1;
+		niz[1] = 2;
+		niz[2] = 3;
+		niz[3] = 4;
+		niz[4] = 4;
+		niz[5] = 5;
+		niz[6] = 6;
+		addAll(s2, niz);
+		print(s2);
+		print(eol);
+		s3 = new set[12];
+		s3 = s1 union s2;
+		print(s3);
+		
+		
+	}
+	
+
+	void notMain(){
+		s1 = new set[5];
+		add(s1, 1);
+		add(s1, 3);
+		add(s1, 2);
+		print(s1);
+		print(eol);
+		s2 = new set[7];
+		niz = new int[7];
+		niz[0] = 1;
+		niz[1] = 2;
+		niz[2] = 3;
+		niz[3] = 4;
+		niz[4] = 4;
+		niz[5] = 5;
+		niz[6] = 6;
+		addAll(s2, niz);
+		print(s2);
+		print(eol);
+		
+		brojka = mapHelper(niz);
+		print(brojka);
+		print(eol);
+		brojka = dummy map niz;
+		print(brojka);
+		
+	}
+
+}
+

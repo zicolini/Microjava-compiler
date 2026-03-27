@@ -1,0 +1,90 @@
+INFO  01:29:11,097 - Compiling source file: C:\Users\zd200160d\Desktop\pp1\domaci\workspace\MJCompiler\test\program.mj
+INFO  01:29:11,139 - #2 program
+INFO  01:29:11,139 - #45 Test
+INFO  01:29:11,139 - #9 const
+INFO  01:29:11,139 - #45 int
+INFO  01:29:11,140 - #45 intKonstanta
+INFO  01:29:11,140 - #17 =
+INFO  01:29:11,140 - #43 7
+INFO  01:29:11,140 - #20 ;
+INFO  01:29:11,141 - #9 const
+INFO  01:29:11,142 - #45 char
+INFO  01:29:11,142 - #45 karakter
+INFO  01:29:11,142 - #17 =
+INFO  01:29:11,142 - #46 a
+INFO  01:29:11,142 - #20 ;
+INFO  01:29:11,143 - #9 const
+INFO  01:29:11,143 - #45 bool
+INFO  01:29:11,143 - #45 boolean
+INFO  01:29:11,143 - #17 =
+INFO  01:29:11,143 - #44 1
+INFO  01:29:11,143 - #20 ;
+INFO  01:29:11,161 - #26 {
+INFO  01:29:11,161 - #16 void
+INFO  01:29:11,161 - #45 main
+INFO  01:29:11,163 - #22 (
+INFO  01:29:11,163 - #23 )
+INFO  01:29:11,164 - #26 {
+INFO  01:29:11,165 - #27 }
+INFO  01:29:11,165 - #27 }
+INFO  01:29:11,167 - Program(
+ Test
+  DecListDef(
+    DecListDef(
+      DecListDef(
+        DecListEps(
+        ) [DecListEps]
+        DecListItemConst(
+          ConstDecl(
+            Type(
+             int
+            ) [Type]
+            ConstBase(
+             intKonstanta
+              ConstN(
+               7
+              ) [ConstN]
+            ) [ConstBase]
+          ) [ConstDecl]
+        ) [DecListItemConst]
+      ) [DecListDef]
+      DecListItemConst(
+        ConstDecl(
+          Type(
+           char
+          ) [Type]
+          ConstBase(
+           karakter
+            ConstC(
+             a
+            ) [ConstC]
+          ) [ConstBase]
+        ) [ConstDecl]
+      ) [DecListItemConst]
+    ) [DecListDef]
+    DecListItemConst(
+      ConstDecl(
+        Type(
+         bool
+        ) [Type]
+        ConstBase(
+         boolean
+          ConstB(
+           1
+          ) [ConstB]
+        ) [ConstBase]
+      ) [ConstDecl]
+    ) [DecListItemConst]
+  ) [DecListDef]
+  MethDeclEmpty(
+    MethodSignature(
+      MethTypeV(
+      ) [MethTypeV]
+     main
+      MethParsEps(
+      ) [MethParsEps]
+    ) [MethodSignature]
+  ) [MethDeclEmpty]
+) [Program]
+INFO  01:29:11,168 - =====================================================================
+INFO  01:29:11,168 - Parsiranje uspesno zavrseno!

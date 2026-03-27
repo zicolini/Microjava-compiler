@@ -1,0 +1,163 @@
+	 [java] 13: enter 2 3
+     [java] 16: load_0
+     [java] 17: const_0
+     [java] 18: aload
+     [java] 19: load_0
+     [java] 20: call -14 (=6)
+     [java] 23: jne 6 (=29)
+     [java] 26: jmp 6 (=32)
+     [java] 29: jmp 5 (=34)
+     [java] 32: exit
+     [java] 33: return
+     [java] 34: const_1
+     [java] 35: store_2
+     [java] 36: load_0
+     [java] 37: const_0
+     [java] 38: aload
+     [java] 39: const_1
+     [java] 40: jle 6 (=46)
+     [java] 43: jmp 6 (=49)
+     [java] 46: jmp 38 (=84)
+     [java] 49: load_0
+     [java] 50: load_2
+     [java] 51: aload
+     [java] 52: load_1
+     [java] 53: jne 6 (=59)
+     [java] 56: jmp 6 (=62)
+     [java] 59: jmp 5 (=64)
+     [java] 62: exit
+     [java] 63: return
+     [java] 64: load_2
+     [java] 65: const_1
+     [java] 66: add
+     [java] 67: store_2
+     [java] 68: load_2
+     [java] 69: load_0
+     [java] 70: const_0
+     [java] 71: aload
+     [java] 72: jge 6 (=78)
+     [java] 75: jmp 6 (=81)
+     [java] 78: jmp 6 (=84)
+     [java] 81: jmp -32 (=49)
+     [java] 84: load_0
+     [java] 85: load_0
+     [java] 86: const_0
+     [java] 87: aload
+     [java] 88: load_1
+     [java] 89: astore
+     [java] 90: load_0
+     [java] 91: const_0
+     [java] 92: dup2
+     [java] 93: aload
+     [java] 94: const_1
+     [java] 95: add
+     [java] 96: astore
+     [java] 97: exit
+     [java] 98: return
+     
+     
+     [java] 99: enter 1 3
+     [java] 102: load_0
+     [java] 103: const_0
+     [java] 104: aload
+     [java] 105: store_1
+     [java] 106: const_1
+     [java] 107: store_2
+     [java] 108: load_1
+     [java] 109: const_1
+     [java] 110: jne 6 (=116)
+     [java] 113: jmp 6 (=119)
+     [java] 116: jmp 5 (=121)
+     [java] 119: exit
+     [java] 120: return
+     [java] 121: load_1
+     [java] 122: const_2
+     [java] 123: jle 6 (=129)
+     [java] 126: jmp 6 (=132)
+     [java] 129: jmp 35 (=164)
+     [java] 132: load_0
+     [java] 133: load_2
+     [java] 134: aload
+     [java] 135: const_0
+     [java] 136: print
+     [java] 137: const 32
+     [java] 142: const_0
+     [java] 143: bprint
+     [java] 144: load_2
+     [java] 145: const_1
+     [java] 146: add
+     [java] 147: store_2
+     [java] 148: load_2
+     [java] 149: load_1
+     [java] 150: const_1
+     [java] 151: sub
+     [java] 152: jge 6 (=158)
+     [java] 155: jmp 6 (=161)
+     [java] 158: jmp 6 (=164)
+     [java] 161: jmp -29 (=132)
+     [java] 164: load_0
+     [java] 165: load_2
+     [java] 166: aload
+     [java] 167: const_0
+     [java] 168: print
+     [java] 169: exit
+     [java] 170: return
+     
+     
+     
+     [java] 171: enter 2 3
+     [java] 174: load_0
+     [java] 175: const_0
+     [java] 176: aload
+     [java] 177: load_0
+     [java] 178: call -172 (=6)
+     [java] 181: jne 6 (=187)
+     [java] 184: jmp 6 (=190)
+     [java] 187: jmp 5 (=192)
+     [java] 190: exit
+     [java] 191: return
+     [java] 192: const_1
+     [java] 193: store_2
+     [java] 194: load_0
+     [java] 195: const_0
+     [java] 196: aload
+     [java] 197: const_1
+     [java] 198: jle 6 (=204)
+     [java] 201: jmp 6 (=207)
+     [java] 204: jmp 38 (=242)
+     [java] 207: load_0
+     [java] 208: load_2
+     [java] 209: aload
+     [java] 210: load_1
+     [java] 211: jne 6 (=217)
+     [java] 214: jmp 6 (=220)
+     [java] 217: jmp 5 (=222)
+     [java] 220: exit
+     [java] 221: return
+     [java] 222: load_2
+     [java] 223: const_1
+     [java] 224: add
+     [java] 225: store_2
+     [java] 226: load_2
+     [java] 227: load_0
+     [java] 228: const_0
+     [java] 229: aload
+     [java] 230: jge 6 (=236)
+     [java] 233: jmp 6 (=239)
+     [java] 236: jmp 6 (=242)
+     [java] 239: jmp -32 (=207)
+     [java] 242: load_0
+     [java] 243: load_0
+     [java] 244: const_0
+     [java] 245: aload
+     [java] 246: load_1
+     [java] 247: astore
+     [java] 248: load_0
+     [java] 249: const_0
+     [java] 250: dup2
+     [java] 251: aload
+     [java] 252: const_1
+     [java] 253: add
+     [java] 254: astore
+     [java] 255: exit
+     [java] 256: return

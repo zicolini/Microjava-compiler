@@ -1,0 +1,112 @@
+     [java] 13: enter 2 3
+     [java] 16: load_0
+     [java] 17: const_0
+     [java] 18: aload
+     [java] 19: load_0
+     [java] 20: call -14 (=6)
+     [java] 23: jne 6 (=29)
+     [java] 26: jmp 6 (=32)
+     [java] 29: jmp 5 (=34)
+     [java] 32: exit
+     [java] 33: return
+     [java] 34: const_1
+     [java] 35: store_2
+     [java] 36: load_0
+     [java] 37: const_0
+     [java] 38: aload
+     [java] 39: const_1
+     [java] 40: jle 6 (=46)
+     [java] 43: jmp 6 (=49)
+     [java] 46: jmp 38 (=84)
+     [java] 49: load_0
+     [java] 50: load_2
+     [java] 51: aload
+     [java] 52: load_1
+     [java] 53: jne 6 (=59)
+     [java] 56: jmp 6 (=62)
+     [java] 59: jmp 5 (=64)
+     [java] 62: exit
+     [java] 63: return
+     [java] 64: load_2
+     [java] 65: const_1
+     [java] 66: add
+     [java] 67: store_2
+     [java] 68: load_2
+     [java] 69: load_0
+     [java] 70: const_0
+     [java] 71: aload
+     [java] 72: jge 6 (=78)
+     [java] 75: jmp 6 (=81)
+     [java] 78: jmp 6 (=84)
+     [java] 81: jmp -32 (=49)
+     [java] 84: load_0
+     [java] 85: load_0
+     [java] 86: const_0
+     [java] 87: aload
+     [java] 88: load_1
+     [java] 89: astore
+     [java] 90: load_0
+     [java] 91: const_0
+     [java] 92: dup2
+     [java] 93: aload
+     [java] 94: const_1
+     [java] 95: add
+     [java] 96: astore
+     [java] 97: exit
+     [java] 98: return
+    
+    
+    SRC
+    void addHelper(int arr[], int val) int i;{
+		if(arr[0] == len(arr))
+			return;
+		i = 1;
+		
+		if(arr[0]>1){
+			do{
+				if(arr[i] == val) return;
+				i++;
+			}
+			while(i < arr[0]);
+		}
+		arr[arr[0]] = val;
+		arr[0]++;
+	}
+	
+		//deo prevoda sa rel pomerajima
+	    Code.put(Code.enter);
+        Code.put(2);
+        Code.put(3);
+        Code.put(Code.load_n);
+        Code.put(Code.const_n);
+        Code.put(Code.aload);
+        Code.put(Code.load_n);
+        Code.put(Code.call);
+        offset = lenMethod.getAdr() - Code.pc;
+		Code.put(Code.call);
+		Code.put2(offset);
+        Code.put(Code.jcc+1);
+        Code.put2(6);
+        Code.put(Code.jmp);
+        Code.put2(6);
+        Code.put(Code.jmp);
+        Code.put2(5);
+        Code.put(Code.exit);
+        Code.put(Code.return_);
+        Code.put(Code.const_1);
+        Code.put(Code.store_2);
+        Code.put(Code.load_n);
+        Code.put(Code.const_n);
+        Code.put(Code.aload);
+        Code.put(Code.const_1);
+        Code.put(Code.jcc+3);
+        Code.put2(6);
+        Code.put(Code.jmp);
+        Code.put2(6);
+        Code.put(Code.jmp);
+        Code.put2(38);
+        Code.put(Code.load_n);
+        Code.put(Code.load_2);
+        Code.put(Code.aload);
+        Code.put(Code.load_1); //52
+        

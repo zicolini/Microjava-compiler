@@ -1,0 +1,3004 @@
+INFO  09:15:23,436 - Compiling source file: C:\Users\zd200160d\Desktop\pp1\domaci\workspace\MJCompiler\test\test302.mj
+INFO  09:15:23,461 - #2 program
+INFO  09:15:23,462 - #45 test302
+INFO  09:15:23,462 - #45 int
+INFO  09:15:23,462 - #45 i
+INFO  09:15:23,463 - #20 ;
+INFO  09:15:23,464 - #45 bool
+INFO  09:15:23,464 - #45 ibool
+INFO  09:15:23,464 - #20 ;
+INFO  09:15:23,464 - #45 int
+INFO  09:15:23,464 - #45 niz2
+INFO  09:15:23,464 - #20 ;
+INFO  09:15:23,464 - #45 int
+INFO  09:15:23,464 - #45 niz
+INFO  09:15:23,464 - #24 [
+INFO  09:15:23,464 - #25 ]
+INFO  09:15:23,464 - #20 ;
+INFO  09:15:23,464 - #45 int
+INFO  09:15:23,464 - #45 a
+INFO  09:15:23,464 - #20 ;
+INFO  09:15:23,464 - #45 int
+INFO  09:15:23,464 - #45 brojka
+INFO  09:15:23,464 - #20 ;
+INFO  09:15:23,464 - #26 {
+INFO  09:15:23,464 - #45 int
+INFO  09:15:23,465 - #45 sum
+INFO  09:15:23,465 - #22 (
+INFO  09:15:23,465 - #45 int
+INFO  09:15:23,465 - #45 z
+INFO  09:15:23,465 - #18 ,
+INFO  09:15:23,465 - #45 int
+INFO  09:15:23,465 - #45 d
+INFO  09:15:23,465 - #23 )
+INFO  09:15:23,466 - #26 {
+INFO  09:15:23,466 - #5 return
+INFO  09:15:23,467 - #45 z
+INFO  09:15:23,467 - #28 +
+INFO  09:15:23,467 - #45 d
+INFO  09:15:23,468 - #20 ;
+INFO  09:15:23,468 - #27 }
+INFO  09:15:23,469 - #45 int
+INFO  09:15:23,469 - #45 inkrement
+INFO  09:15:23,469 - #22 (
+INFO  09:15:23,469 - #45 int
+INFO  09:15:23,469 - #45 a
+INFO  09:15:23,469 - #18 ,
+INFO  09:15:23,469 - #45 int
+INFO  09:15:23,469 - #45 inc
+INFO  09:15:23,469 - #23 )
+INFO  09:15:23,469 - #45 int
+INFO  09:15:23,469 - #45 pom
+INFO  09:15:23,469 - #20 ;
+INFO  09:15:23,469 - #26 {
+INFO  09:15:23,469 - #7 if
+INFO  09:15:23,469 - #22 (
+INFO  09:15:23,469 - #45 inc
+INFO  09:15:23,470 - #33 ==
+INFO  09:15:23,470 - #43 1
+INFO  09:15:23,470 - #23 )
+INFO  09:15:23,471 - #45 pom
+INFO  09:15:23,471 - #17 =
+INFO  09:15:23,471 - #43 1
+INFO  09:15:23,471 - #20 ;
+INFO  09:15:23,472 - #8 else
+INFO  09:15:23,472 - #7 if
+INFO  09:15:23,472 - #22 (
+INFO  09:15:23,472 - #45 inc
+INFO  09:15:23,472 - #33 ==
+INFO  09:15:23,472 - #43 2
+INFO  09:15:23,472 - #23 )
+INFO  09:15:23,472 - #45 pom
+INFO  09:15:23,472 - #17 =
+INFO  09:15:23,472 - #45 a
+INFO  09:15:23,472 - #20 ;
+INFO  09:15:23,472 - #5 return
+INFO  09:15:23,473 - #45 sum
+INFO  09:15:23,473 - #22 (
+INFO  09:15:23,473 - #45 a
+INFO  09:15:23,473 - #18 ,
+INFO  09:15:23,473 - #45 pom
+INFO  09:15:23,473 - #23 )
+INFO  09:15:23,474 - #20 ;
+INFO  09:15:23,474 - #27 }
+INFO  09:15:23,474 - #45 bool
+INFO  09:15:23,474 - #45 verify
+INFO  09:15:23,474 - #22 (
+INFO  09:15:23,474 - #23 )
+INFO  09:15:23,474 - #26 {
+INFO  09:15:23,474 - #4 print
+INFO  09:15:23,474 - #22 (
+INFO  09:15:23,474 - #46 v
+INFO  09:15:23,474 - #23 )
+INFO  09:15:23,474 - #20 ;
+INFO  09:15:23,474 - #5 return
+INFO  09:15:23,474 - #44 0
+INFO  09:15:23,474 - #20 ;
+INFO  09:15:23,474 - #27 }
+INFO  09:15:23,474 - #45 int
+INFO  09:15:23,475 - #45 f1
+INFO  09:15:23,475 - #22 (
+INFO  09:15:23,475 - #45 int
+INFO  09:15:23,475 - #45 arg
+INFO  09:15:23,475 - #23 )
+INFO  09:15:23,475 - #26 {
+INFO  09:15:23,475 - #4 print
+INFO  09:15:23,475 - #22 (
+INFO  09:15:23,475 - #45 arg
+INFO  09:15:23,475 - #23 )
+INFO  09:15:23,475 - #20 ;
+INFO  09:15:23,475 - #4 print
+INFO  09:15:23,475 - #22 (
+INFO  09:15:23,475 - #45 eol
+INFO  09:15:23,475 - #23 )
+INFO  09:15:23,475 - #20 ;
+INFO  09:15:23,475 - #5 return
+INFO  09:15:23,475 - #45 arg
+INFO  09:15:23,475 - #30 *
+INFO  09:15:23,475 - #43 2
+INFO  09:15:23,476 - #20 ;
+INFO  09:15:23,476 - #27 }
+INFO  09:15:23,476 - #16 void
+INFO  09:15:23,476 - #45 main
+INFO  09:15:23,476 - #22 (
+INFO  09:15:23,476 - #23 )
+INFO  09:15:23,476 - #26 {
+INFO  09:15:23,476 - #7 if
+INFO  09:15:23,476 - #22 (
+INFO  09:15:23,476 - #43 1
+INFO  09:15:23,477 - #34 !=
+INFO  09:15:23,477 - #43 1
+INFO  09:15:23,477 - #23 )
+INFO  09:15:23,477 - #4 print
+INFO  09:15:23,477 - #22 (
+INFO  09:15:23,477 - #29 -
+INFO  09:15:23,477 - #43 6
+INFO  09:15:23,477 - #23 )
+INFO  09:15:23,477 - #20 ;
+INFO  09:15:23,477 - #8 else
+INFO  09:15:23,477 - #4 print
+INFO  09:15:23,477 - #22 (
+INFO  09:15:23,477 - #43 0
+INFO  09:15:23,477 - #23 )
+INFO  09:15:23,477 - #20 ;
+INFO  09:15:23,477 - #4 print
+INFO  09:15:23,477 - #22 (
+INFO  09:15:23,477 - #45 eol
+INFO  09:15:23,478 - #23 )
+INFO  09:15:23,478 - #20 ;
+INFO  09:15:23,478 - #45 ibool
+INFO  09:15:23,478 - #17 =
+INFO  09:15:23,478 - #44 0
+INFO  09:15:23,478 - #20 ;
+INFO  09:15:23,478 - #45 i
+INFO  09:15:23,478 - #17 =
+INFO  09:15:23,478 - #43 0
+INFO  09:15:23,478 - #20 ;
+INFO  09:15:23,478 - #13 do
+INFO  09:15:23,478 - #26 {
+INFO  09:15:23,478 - #7 if
+INFO  09:15:23,478 - #22 (
+INFO  09:15:23,478 - #45 i
+INFO  09:15:23,478 - #33 ==
+INFO  09:15:23,478 - #43 2
+INFO  09:15:23,479 - #23 )
+INFO  09:15:23,479 - #45 ibool
+INFO  09:15:23,479 - #17 =
+INFO  09:15:23,479 - #44 1
+INFO  09:15:23,479 - #20 ;
+INFO  09:15:23,479 - #27 }
+INFO  09:15:23,479 - #14 while
+INFO  09:15:23,479 - #22 (
+INFO  09:15:23,479 - #45 i
+INFO  09:15:23,479 - #37 <
+INFO  09:15:23,479 - #43 5
+INFO  09:15:23,480 - #18 ,
+INFO  09:15:23,480 - #45 i
+INFO  09:15:23,480 - #41 ++
+INFO  09:15:23,480 - #23 )
+INFO  09:15:23,480 - #20 ;
+INFO  09:15:23,480 - #7 if
+INFO  09:15:23,480 - #22 (
+INFO  09:15:23,480 - #45 ibool
+INFO  09:15:23,480 - #23 )
+INFO  09:15:23,480 - #7 if
+INFO  09:15:23,480 - #22 (
+INFO  09:15:23,480 - #45 i
+INFO  09:15:23,480 - #33 ==
+INFO  09:15:23,480 - #43 5
+INFO  09:15:23,480 - #23 )
+INFO  09:15:23,480 - #4 print
+INFO  09:15:23,480 - #22 (
+INFO  09:15:23,480 - #43 1
+INFO  09:15:23,480 - #23 )
+INFO  09:15:23,480 - #20 ;
+INFO  09:15:23,480 - #8 else
+INFO  09:15:23,480 - #4 print
+INFO  09:15:23,481 - #22 (
+INFO  09:15:23,482 - #29 -
+INFO  09:15:23,482 - #43 1
+INFO  09:15:23,483 - #23 )
+INFO  09:15:23,483 - #20 ;
+INFO  09:15:23,483 - #45 a
+INFO  09:15:23,483 - #17 =
+INFO  09:15:23,483 - #43 2
+INFO  09:15:23,483 - #20 ;
+INFO  09:15:23,483 - #45 niz
+INFO  09:15:23,483 - #17 =
+INFO  09:15:23,483 - #3 new
+INFO  09:15:23,483 - #45 int
+INFO  09:15:23,483 - #24 [
+INFO  09:15:23,483 - #43 3
+INFO  09:15:23,483 - #25 ]
+INFO  09:15:23,483 - #20 ;
+INFO  09:15:23,483 - #45 niz
+INFO  09:15:23,483 - #24 [
+INFO  09:15:23,483 - #43 0
+INFO  09:15:23,483 - #25 ]
+INFO  09:15:23,483 - #17 =
+INFO  09:15:23,483 - #43 1
+INFO  09:15:23,483 - #30 *
+INFO  09:15:23,483 - #45 a
+INFO  09:15:23,483 - #20 ;
+INFO  09:15:23,483 - #45 niz
+INFO  09:15:23,483 - #24 [
+INFO  09:15:23,483 - #43 1
+INFO  09:15:23,483 - #25 ]
+INFO  09:15:23,483 - #17 =
+INFO  09:15:23,483 - #43 2
+INFO  09:15:23,483 - #30 *
+INFO  09:15:23,483 - #45 a
+INFO  09:15:23,485 - #20 ;
+INFO  09:15:23,485 - #45 brojka
+INFO  09:15:23,485 - #17 =
+INFO  09:15:23,485 - #45 sum
+INFO  09:15:23,485 - #22 (
+INFO  09:15:23,485 - #45 niz
+INFO  09:15:23,485 - #24 [
+INFO  09:15:23,485 - #43 1
+INFO  09:15:23,485 - #25 ]
+INFO  09:15:23,485 - #18 ,
+INFO  09:15:23,485 - #45 niz
+INFO  09:15:23,485 - #24 [
+INFO  09:15:23,485 - #43 0
+INFO  09:15:23,485 - #25 ]
+INFO  09:15:23,485 - #23 )
+INFO  09:15:23,485 - #30 *
+INFO  09:15:23,485 - #45 a
+INFO  09:15:23,485 - #28 +
+INFO  09:15:23,485 - #43 1
+INFO  09:15:23,485 - #20 ;
+INFO  09:15:23,485 - #45 niz
+INFO  09:15:23,485 - #24 [
+INFO  09:15:23,485 - #43 2
+INFO  09:15:23,485 - #25 ]
+INFO  09:15:23,485 - #17 =
+INFO  09:15:23,485 - #45 brojka
+INFO  09:15:23,486 - #20 ;
+INFO  09:15:23,486 - #7 if
+INFO  09:15:23,486 - #22 (
+INFO  09:15:23,486 - #45 verify
+INFO  09:15:23,486 - #22 (
+INFO  09:15:23,486 - #23 )
+INFO  09:15:23,486 - #40 ||
+INFO  09:15:23,486 - #45 niz
+INFO  09:15:23,486 - #24 [
+INFO  09:15:23,486 - #43 2
+INFO  09:15:23,486 - #25 ]
+INFO  09:15:23,486 - #33 ==
+INFO  09:15:23,486 - #43 4
+INFO  09:15:23,486 - #23 )
+INFO  09:15:23,486 - #4 print
+INFO  09:15:23,487 - #22 (
+INFO  09:15:23,487 - #45 ord
+INFO  09:15:23,487 - #22 (
+INFO  09:15:23,487 - #46 A
+INFO  09:15:23,487 - #23 )
+INFO  09:15:23,487 - #23 )
+INFO  09:15:23,487 - #20 ;
+INFO  09:15:23,487 - #8 else
+INFO  09:15:23,487 - #4 print
+INFO  09:15:23,487 - #22 (
+INFO  09:15:23,487 - #45 ord
+INFO  09:15:23,487 - #22 (
+INFO  09:15:23,487 - #46 a
+INFO  09:15:23,487 - #23 )
+INFO  09:15:23,487 - #23 )
+INFO  09:15:23,487 - #20 ;
+INFO  09:15:23,487 - #4 print
+INFO  09:15:23,487 - #22 (
+INFO  09:15:23,487 - #45 eol
+INFO  09:15:23,487 - #23 )
+INFO  09:15:23,487 - #20 ;
+INFO  09:15:23,487 - #45 i
+INFO  09:15:23,487 - #17 =
+INFO  09:15:23,487 - #43 0
+INFO  09:15:23,487 - #20 ;
+INFO  09:15:23,487 - #13 do
+INFO  09:15:23,487 - #26 {
+INFO  09:15:23,488 - #7 if
+INFO  09:15:23,488 - #22 (
+INFO  09:15:23,488 - #45 i
+INFO  09:15:23,488 - #33 ==
+INFO  09:15:23,488 - #43 3
+INFO  09:15:23,488 - #23 )
+INFO  09:15:23,488 - #26 {
+INFO  09:15:23,488 - #45 i
+INFO  09:15:23,488 - #41 ++
+INFO  09:15:23,488 - #20 ;
+INFO  09:15:23,488 - #11 continue
+INFO  09:15:23,488 - #20 ;
+INFO  09:15:23,488 - #27 }
+INFO  09:15:23,489 - #7 if
+INFO  09:15:23,489 - #22 (
+INFO  09:15:23,489 - #45 i
+INFO  09:15:23,489 - #33 ==
+INFO  09:15:23,489 - #43 4
+INFO  09:15:23,489 - #23 )
+INFO  09:15:23,489 - #6 break
+INFO  09:15:23,489 - #20 ;
+INFO  09:15:23,489 - #45 i
+INFO  09:15:23,489 - #17 =
+INFO  09:15:23,489 - #45 inkrement
+INFO  09:15:23,490 - #22 (
+INFO  09:15:23,490 - #45 i
+INFO  09:15:23,490 - #18 ,
+INFO  09:15:23,490 - #43 1
+INFO  09:15:23,490 - #23 )
+INFO  09:15:23,490 - #20 ;
+INFO  09:15:23,490 - #27 }
+INFO  09:15:23,490 - #14 while
+INFO  09:15:23,490 - #22 (
+INFO  09:15:23,490 - #45 i
+INFO  09:15:23,490 - #37 <
+INFO  09:15:23,490 - #43 10
+INFO  09:15:23,490 - #23 )
+INFO  09:15:23,490 - #20 ;
+INFO  09:15:23,490 - #7 if
+INFO  09:15:23,490 - #22 (
+INFO  09:15:23,490 - #45 i
+INFO  09:15:23,490 - #33 ==
+INFO  09:15:23,490 - #43 3
+INFO  09:15:23,490 - #39 &&
+INFO  09:15:23,490 - #45 verify
+INFO  09:15:23,490 - #22 (
+INFO  09:15:23,490 - #23 )
+INFO  09:15:23,490 - #23 )
+INFO  09:15:23,490 - #4 print
+INFO  09:15:23,490 - #22 (
+INFO  09:15:23,490 - #29 -
+INFO  09:15:23,490 - #43 4
+INFO  09:15:23,490 - #23 )
+INFO  09:15:23,490 - #20 ;
+INFO  09:15:23,490 - #8 else
+INFO  09:15:23,490 - #4 print
+INFO  09:15:23,491 - #22 (
+INFO  09:15:23,491 - #43 4
+INFO  09:15:23,491 - #23 )
+INFO  09:15:23,491 - #20 ;
+INFO  09:15:23,491 - #10 read
+INFO  09:15:23,491 - #22 (
+INFO  09:15:23,491 - #45 niz
+INFO  09:15:23,491 - #24 [
+INFO  09:15:23,491 - #43 0
+INFO  09:15:23,491 - #25 ]
+INFO  09:15:23,491 - #23 )
+INFO  09:15:23,491 - #20 ;
+INFO  09:15:23,491 - #10 read
+INFO  09:15:23,491 - #22 (
+INFO  09:15:23,491 - #45 niz
+INFO  09:15:23,491 - #24 [
+INFO  09:15:23,491 - #43 1
+INFO  09:15:23,491 - #25 ]
+INFO  09:15:23,491 - #23 )
+INFO  09:15:23,491 - #20 ;
+INFO  09:15:23,491 - #10 read
+INFO  09:15:23,491 - #22 (
+INFO  09:15:23,491 - #45 niz
+INFO  09:15:23,491 - #24 [
+INFO  09:15:23,491 - #43 2
+INFO  09:15:23,491 - #25 ]
+INFO  09:15:23,491 - #23 )
+INFO  09:15:23,491 - #20 ;
+INFO  09:15:23,491 - #4 print
+INFO  09:15:23,491 - #22 (
+INFO  09:15:23,491 - #45 eol
+INFO  09:15:23,491 - #23 )
+INFO  09:15:23,491 - #20 ;
+INFO  09:15:23,491 - #4 print
+INFO  09:15:23,491 - #22 (
+INFO  09:15:23,491 - #45 sum
+INFO  09:15:23,491 - #22 (
+INFO  09:15:23,491 - #45 sum
+INFO  09:15:23,491 - #22 (
+INFO  09:15:23,491 - #45 niz
+INFO  09:15:23,491 - #24 [
+INFO  09:15:23,491 - #43 0
+INFO  09:15:23,491 - #25 ]
+INFO  09:15:23,491 - #18 ,
+INFO  09:15:23,491 - #45 niz
+INFO  09:15:23,492 - #24 [
+INFO  09:15:23,492 - #43 1
+INFO  09:15:23,492 - #25 ]
+INFO  09:15:23,492 - #23 )
+INFO  09:15:23,492 - #18 ,
+INFO  09:15:23,492 - #45 niz
+INFO  09:15:23,492 - #24 [
+INFO  09:15:23,492 - #43 2
+INFO  09:15:23,492 - #25 ]
+INFO  09:15:23,492 - #23 )
+INFO  09:15:23,492 - #23 )
+INFO  09:15:23,492 - #20 ;
+INFO  09:15:23,492 - #4 print
+INFO  09:15:23,492 - #22 (
+INFO  09:15:23,492 - #45 eol
+INFO  09:15:23,492 - #23 )
+INFO  09:15:23,492 - #20 ;
+INFO  09:15:23,492 - #4 print
+INFO  09:15:23,492 - #22 (
+INFO  09:15:23,492 - #45 inkrement
+INFO  09:15:23,492 - #22 (
+INFO  09:15:23,492 - #45 niz
+INFO  09:15:23,492 - #24 [
+INFO  09:15:23,492 - #43 2
+INFO  09:15:23,492 - #25 ]
+INFO  09:15:23,492 - #18 ,
+INFO  09:15:23,492 - #43 2
+INFO  09:15:23,492 - #23 )
+INFO  09:15:23,492 - #23 )
+INFO  09:15:23,492 - #20 ;
+INFO  09:15:23,492 - #4 print
+INFO  09:15:23,492 - #22 (
+INFO  09:15:23,492 - #45 eol
+INFO  09:15:23,492 - #23 )
+INFO  09:15:23,492 - #20 ;
+INFO  09:15:23,492 - #45 a
+INFO  09:15:23,492 - #17 =
+INFO  09:15:23,492 - #43 3
+INFO  09:15:23,492 - #20 ;
+INFO  09:15:23,492 - #45 i
+INFO  09:15:23,492 - #17 =
+INFO  09:15:23,492 - #43 0
+INFO  09:15:23,492 - #20 ;
+INFO  09:15:23,492 - #13 do
+INFO  09:15:23,493 - #26 {
+INFO  09:15:23,493 - #45 niz
+INFO  09:15:23,493 - #24 [
+INFO  09:15:23,493 - #45 i
+INFO  09:15:23,493 - #25 ]
+INFO  09:15:23,493 - #17 =
+INFO  09:15:23,493 - #45 niz
+INFO  09:15:23,493 - #24 [
+INFO  09:15:23,493 - #45 i
+INFO  09:15:23,493 - #25 ]
+INFO  09:15:23,493 - #30 *
+INFO  09:15:23,493 - #43 2
+INFO  09:15:23,493 - #30 *
+INFO  09:15:23,493 - #45 a
+INFO  09:15:23,493 - #20 ;
+INFO  09:15:23,493 - #27 }
+INFO  09:15:23,493 - #14 while
+INFO  09:15:23,493 - #22 (
+INFO  09:15:23,493 - #45 i
+INFO  09:15:23,493 - #37 <
+INFO  09:15:23,493 - #43 3
+INFO  09:15:23,493 - #18 ,
+INFO  09:15:23,493 - #45 i
+INFO  09:15:23,493 - #41 ++
+INFO  09:15:23,493 - #23 )
+INFO  09:15:23,493 - #20 ;
+INFO  09:15:23,493 - #45 i
+INFO  09:15:23,493 - #17 =
+INFO  09:15:23,493 - #43 0
+INFO  09:15:23,493 - #20 ;
+INFO  09:15:23,493 - #13 do
+INFO  09:15:23,493 - #4 print
+INFO  09:15:23,493 - #22 (
+INFO  09:15:23,493 - #45 niz
+INFO  09:15:23,493 - #24 [
+INFO  09:15:23,493 - #45 i
+INFO  09:15:23,493 - #25 ]
+INFO  09:15:23,493 - #23 )
+INFO  09:15:23,493 - #20 ;
+INFO  09:15:23,493 - #14 while
+INFO  09:15:23,493 - #22 (
+INFO  09:15:23,493 - #45 i
+INFO  09:15:23,493 - #37 <
+INFO  09:15:23,493 - #43 3
+INFO  09:15:23,493 - #18 ,
+INFO  09:15:23,493 - #45 i
+INFO  09:15:23,493 - #41 ++
+INFO  09:15:23,493 - #23 )
+INFO  09:15:23,493 - #20 ;
+INFO  09:15:23,494 - #4 print
+INFO  09:15:23,494 - #22 (
+INFO  09:15:23,494 - #45 eol
+INFO  09:15:23,494 - #23 )
+INFO  09:15:23,494 - #20 ;
+INFO  09:15:23,494 - #45 niz2
+INFO  09:15:23,494 - #17 =
+INFO  09:15:23,494 - #43 0
+INFO  09:15:23,494 - #20 ;
+INFO  09:15:23,494 - #13 do
+INFO  09:15:23,494 - #45 niz2
+INFO  09:15:23,494 - #17 =
+INFO  09:15:23,494 - #45 niz2
+INFO  09:15:23,494 - #28 +
+INFO  09:15:23,494 - #45 niz
+INFO  09:15:23,494 - #24 [
+INFO  09:15:23,494 - #45 i
+INFO  09:15:23,494 - #25 ]
+INFO  09:15:23,494 - #30 *
+INFO  09:15:23,494 - #45 niz
+INFO  09:15:23,494 - #24 [
+INFO  09:15:23,494 - #45 i
+INFO  09:15:23,494 - #25 ]
+INFO  09:15:23,494 - #20 ;
+INFO  09:15:23,494 - #14 while
+INFO  09:15:23,494 - #22 (
+INFO  09:15:23,494 - #45 i
+INFO  09:15:23,494 - #37 <
+INFO  09:15:23,494 - #43 3
+INFO  09:15:23,494 - #18 ,
+INFO  09:15:23,494 - #45 i
+INFO  09:15:23,494 - #41 ++
+INFO  09:15:23,494 - #23 )
+INFO  09:15:23,494 - #20 ;
+INFO  09:15:23,494 - #4 print
+INFO  09:15:23,494 - #22 (
+INFO  09:15:23,494 - #45 niz2
+INFO  09:15:23,494 - #23 )
+INFO  09:15:23,494 - #20 ;
+INFO  09:15:23,494 - #4 print
+INFO  09:15:23,494 - #22 (
+INFO  09:15:23,494 - #45 eol
+INFO  09:15:23,494 - #23 )
+INFO  09:15:23,494 - #20 ;
+INFO  09:15:23,494 - #45 niz
+INFO  09:15:23,494 - #24 [
+INFO  09:15:23,495 - #43 0
+INFO  09:15:23,495 - #25 ]
+INFO  09:15:23,495 - #17 =
+INFO  09:15:23,495 - #43 1
+INFO  09:15:23,495 - #20 ;
+INFO  09:15:23,495 - #45 niz
+INFO  09:15:23,495 - #24 [
+INFO  09:15:23,495 - #43 1
+INFO  09:15:23,495 - #25 ]
+INFO  09:15:23,495 - #17 =
+INFO  09:15:23,495 - #43 2
+INFO  09:15:23,495 - #20 ;
+INFO  09:15:23,495 - #45 niz
+INFO  09:15:23,495 - #24 [
+INFO  09:15:23,495 - #43 2
+INFO  09:15:23,495 - #25 ]
+INFO  09:15:23,495 - #17 =
+INFO  09:15:23,495 - #43 3
+INFO  09:15:23,495 - #20 ;
+INFO  09:15:23,495 - #45 i
+INFO  09:15:23,495 - #17 =
+INFO  09:15:23,495 - #45 f1
+INFO  09:15:23,495 - #15 map
+INFO  09:15:23,495 - #45 niz
+INFO  09:15:23,495 - #20 ;
+INFO  09:15:23,495 - #4 print
+INFO  09:15:23,495 - #22 (
+INFO  09:15:23,495 - #45 i
+INFO  09:15:23,495 - #23 )
+INFO  09:15:23,495 - #20 ;
+INFO  09:15:23,495 - #4 print
+INFO  09:15:23,495 - #22 (
+INFO  09:15:23,495 - #45 eol
+INFO  09:15:23,495 - #23 )
+INFO  09:15:23,495 - #20 ;
+INFO  09:15:23,495 - #45 i
+INFO  09:15:23,496 - #17 =
+INFO  09:15:23,496 - #45 f1
+INFO  09:15:23,496 - #22 (
+INFO  09:15:23,496 - #45 f1
+INFO  09:15:23,496 - #15 map
+INFO  09:15:23,496 - #45 niz
+INFO  09:15:23,496 - #23 )
+INFO  09:15:23,496 - #20 ;
+INFO  09:15:23,496 - #4 print
+INFO  09:15:23,496 - #22 (
+INFO  09:15:23,496 - #45 i
+INFO  09:15:23,496 - #23 )
+INFO  09:15:23,496 - #20 ;
+INFO  09:15:23,496 - #4 print
+INFO  09:15:23,496 - #22 (
+INFO  09:15:23,496 - #45 eol
+INFO  09:15:23,496 - #23 )
+INFO  09:15:23,496 - #20 ;
+INFO  09:15:23,496 - #27 }
+INFO  09:15:23,496 - #27 }
+INFO  09:15:23,516 - Program(
+  ProgramName(
+   test302
+  ) [ProgramName]
+  DecListDef(
+    DecListDef(
+      DecListDef(
+        DecListDef(
+          DecListDef(
+            DecListDef(
+              DecListEps(
+              ) [DecListEps]
+              DecListItemVar(
+                VarDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  VarBase(
+                   i
+                  ) [VarBase]
+                ) [VarDecl]
+              ) [DecListItemVar]
+            ) [DecListDef]
+            DecListItemVar(
+              VarDecl(
+                Type(
+                 bool
+                ) [Type]
+                VarBase(
+                 ibool
+                ) [VarBase]
+              ) [VarDecl]
+            ) [DecListItemVar]
+          ) [DecListDef]
+          DecListItemVar(
+            VarDecl(
+              Type(
+               int
+              ) [Type]
+              VarBase(
+               niz2
+              ) [VarBase]
+            ) [VarDecl]
+          ) [DecListItemVar]
+        ) [DecListDef]
+        DecListItemVar(
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            VarBaseArr(
+             niz
+            ) [VarBaseArr]
+          ) [VarDecl]
+        ) [DecListItemVar]
+      ) [DecListDef]
+      DecListItemVar(
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          VarBase(
+           a
+          ) [VarBase]
+        ) [VarDecl]
+      ) [DecListItemVar]
+    ) [DecListDef]
+    DecListItemVar(
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarBase(
+         brojka
+        ) [VarBase]
+      ) [VarDecl]
+    ) [DecListItemVar]
+  ) [DecListDef]
+  MethDeclListRec(
+    MethDeclListRec(
+      MethDeclListRec(
+        MethDeclListRec(
+          MethDeclListRec(
+            MethDeclListBase(
+            ) [MethDeclListBase]
+            MethodDecl(
+              MethodSignature(
+                MethTypeT(
+                  Type(
+                   int
+                  ) [Type]
+                ) [MethTypeT]
+                MethName(
+                 sum
+                ) [MethName]
+                MethParsForm(
+                  FormParsRec(
+                    FormParsBase(
+                      Type(
+                       int
+                      ) [Type]
+                     z
+                    ) [FormParsBase]
+                    Type(
+                     int
+                    ) [Type]
+                   d
+                  ) [FormParsRec]
+                ) [MethParsForm]
+              ) [MethodSignature]
+              VarDeclListBase(
+              ) [VarDeclListBase]
+              StmtListRec(
+                StmtListBase(
+                ) [StmtListBase]
+                StmtRetExpr(
+                  ExprRec(
+                    ExprBase(
+                      TermBase(
+                        SignedFactorPos(
+                          FactorDes(
+                            DesignatorBase(
+                             z
+                            ) [DesignatorBase]
+                          ) [FactorDes]
+                        ) [SignedFactorPos]
+                      ) [TermBase]
+                    ) [ExprBase]
+                    AddopPlus(
+                    ) [AddopPlus]
+                    TermBase(
+                      SignedFactorPos(
+                        FactorDes(
+                          DesignatorBase(
+                           d
+                          ) [DesignatorBase]
+                        ) [FactorDes]
+                      ) [SignedFactorPos]
+                    ) [TermBase]
+                  ) [ExprRec]
+                ) [StmtRetExpr]
+              ) [StmtListRec]
+            ) [MethodDecl]
+          ) [MethDeclListRec]
+          MethodDecl(
+            MethodSignature(
+              MethTypeT(
+                Type(
+                 int
+                ) [Type]
+              ) [MethTypeT]
+              MethName(
+               inkrement
+              ) [MethName]
+              MethParsForm(
+                FormParsRec(
+                  FormParsBase(
+                    Type(
+                     int
+                    ) [Type]
+                   a
+                  ) [FormParsBase]
+                  Type(
+                   int
+                  ) [Type]
+                 inc
+                ) [FormParsRec]
+              ) [MethParsForm]
+            ) [MethodSignature]
+            VarDeclListRec(
+              VarDeclListBase(
+              ) [VarDeclListBase]
+              VarDecl(
+                Type(
+                 int
+                ) [Type]
+                VarBase(
+                 pom
+                ) [VarBase]
+              ) [VarDecl]
+            ) [VarDeclListRec]
+            StmtListRec(
+              StmtListRec(
+                StmtListBase(
+                ) [StmtListBase]
+                StmtIfElse(
+                  ConditionBase(
+                    CondTermBase(
+                      CondFactOp(
+                        ExprBase(
+                          TermBase(
+                            SignedFactorPos(
+                              FactorDes(
+                                DesignatorBase(
+                                 inc
+                                ) [DesignatorBase]
+                              ) [FactorDes]
+                            ) [SignedFactorPos]
+                          ) [TermBase]
+                        ) [ExprBase]
+                        RelopEqu(
+                        ) [RelopEqu]
+                        ExprBase(
+                          TermBase(
+                            SignedFactorPos(
+                              FactorConst(
+                                ConstFN(
+                                 1
+                                ) [ConstFN]
+                              ) [FactorConst]
+                            ) [SignedFactorPos]
+                          ) [TermBase]
+                        ) [ExprBase]
+                      ) [CondFactOp]
+                    ) [CondTermBase]
+                  ) [ConditionBase]
+                  StmtDes(
+                    DesStmtAssExpr(
+                      DesignatorBase(
+                       pom
+                      ) [DesignatorBase]
+                      Assignop(
+                      ) [Assignop]
+                      ExprBase(
+                        TermBase(
+                          SignedFactorPos(
+                            FactorConst(
+                              ConstFN(
+                               1
+                              ) [ConstFN]
+                            ) [FactorConst]
+                          ) [SignedFactorPos]
+                        ) [TermBase]
+                      ) [ExprBase]
+                    ) [DesStmtAssExpr]
+                  ) [StmtDes]
+                  Else(
+                  ) [Else]
+                  StmtIf(
+                    ConditionBase(
+                      CondTermBase(
+                        CondFactOp(
+                          ExprBase(
+                            TermBase(
+                              SignedFactorPos(
+                                FactorDes(
+                                  DesignatorBase(
+                                   inc
+                                  ) [DesignatorBase]
+                                ) [FactorDes]
+                              ) [SignedFactorPos]
+                            ) [TermBase]
+                          ) [ExprBase]
+                          RelopEqu(
+                          ) [RelopEqu]
+                          ExprBase(
+                            TermBase(
+                              SignedFactorPos(
+                                FactorConst(
+                                  ConstFN(
+                                   2
+                                  ) [ConstFN]
+                                ) [FactorConst]
+                              ) [SignedFactorPos]
+                            ) [TermBase]
+                          ) [ExprBase]
+                        ) [CondFactOp]
+                      ) [CondTermBase]
+                    ) [ConditionBase]
+                    StmtDes(
+                      DesStmtAssExpr(
+                        DesignatorBase(
+                         pom
+                        ) [DesignatorBase]
+                        Assignop(
+                        ) [Assignop]
+                        ExprBase(
+                          TermBase(
+                            SignedFactorPos(
+                              FactorDes(
+                                DesignatorBase(
+                                 a
+                                ) [DesignatorBase]
+                              ) [FactorDes]
+                            ) [SignedFactorPos]
+                          ) [TermBase]
+                        ) [ExprBase]
+                      ) [DesStmtAssExpr]
+                    ) [StmtDes]
+                  ) [StmtIf]
+                ) [StmtIfElse]
+              ) [StmtListRec]
+              StmtRetExpr(
+                ExprBase(
+                  TermBase(
+                    SignedFactorPos(
+                      FactorPars(
+                        DesignatorBase(
+                         sum
+                        ) [DesignatorBase]
+                        ParenParsPars(
+                          ActParsRec(
+                            ActParsBase(
+                              ExprBase(
+                                TermBase(
+                                  SignedFactorPos(
+                                    FactorDes(
+                                      DesignatorBase(
+                                       a
+                                      ) [DesignatorBase]
+                                    ) [FactorDes]
+                                  ) [SignedFactorPos]
+                                ) [TermBase]
+                              ) [ExprBase]
+                            ) [ActParsBase]
+                            ExprBase(
+                              TermBase(
+                                SignedFactorPos(
+                                  FactorDes(
+                                    DesignatorBase(
+                                     pom
+                                    ) [DesignatorBase]
+                                  ) [FactorDes]
+                                ) [SignedFactorPos]
+                              ) [TermBase]
+                            ) [ExprBase]
+                          ) [ActParsRec]
+                        ) [ParenParsPars]
+                      ) [FactorPars]
+                    ) [SignedFactorPos]
+                  ) [TermBase]
+                ) [ExprBase]
+              ) [StmtRetExpr]
+            ) [StmtListRec]
+          ) [MethodDecl]
+        ) [MethDeclListRec]
+        MethodDecl(
+          MethodSignature(
+            MethTypeT(
+              Type(
+               bool
+              ) [Type]
+            ) [MethTypeT]
+            MethName(
+             verify
+            ) [MethName]
+            MethParsEps(
+            ) [MethParsEps]
+          ) [MethodSignature]
+          VarDeclListBase(
+          ) [VarDeclListBase]
+          StmtListRec(
+            StmtListRec(
+              StmtListBase(
+              ) [StmtListBase]
+              StmtPrint(
+                ExprBase(
+                  TermBase(
+                    SignedFactorPos(
+                      FactorConst(
+                        ConstFC(
+                         v
+                        ) [ConstFC]
+                      ) [FactorConst]
+                    ) [SignedFactorPos]
+                  ) [TermBase]
+                ) [ExprBase]
+              ) [StmtPrint]
+            ) [StmtListRec]
+            StmtRetExpr(
+              ExprBase(
+                TermBase(
+                  SignedFactorPos(
+                    FactorConst(
+                      ConstFB(
+                       0
+                      ) [ConstFB]
+                    ) [FactorConst]
+                  ) [SignedFactorPos]
+                ) [TermBase]
+              ) [ExprBase]
+            ) [StmtRetExpr]
+          ) [StmtListRec]
+        ) [MethodDecl]
+      ) [MethDeclListRec]
+      MethodDecl(
+        MethodSignature(
+          MethTypeT(
+            Type(
+             int
+            ) [Type]
+          ) [MethTypeT]
+          MethName(
+           f1
+          ) [MethName]
+          MethParsForm(
+            FormParsBase(
+              Type(
+               int
+              ) [Type]
+             arg
+            ) [FormParsBase]
+          ) [MethParsForm]
+        ) [MethodSignature]
+        VarDeclListBase(
+        ) [VarDeclListBase]
+        StmtListRec(
+          StmtListRec(
+            StmtListRec(
+              StmtListBase(
+              ) [StmtListBase]
+              StmtPrint(
+                ExprBase(
+                  TermBase(
+                    SignedFactorPos(
+                      FactorDes(
+                        DesignatorBase(
+                         arg
+                        ) [DesignatorBase]
+                      ) [FactorDes]
+                    ) [SignedFactorPos]
+                  ) [TermBase]
+                ) [ExprBase]
+              ) [StmtPrint]
+            ) [StmtListRec]
+            StmtPrint(
+              ExprBase(
+                TermBase(
+                  SignedFactorPos(
+                    FactorDes(
+                      DesignatorBase(
+                       eol
+                      ) [DesignatorBase]
+                    ) [FactorDes]
+                  ) [SignedFactorPos]
+                ) [TermBase]
+              ) [ExprBase]
+            ) [StmtPrint]
+          ) [StmtListRec]
+          StmtRetExpr(
+            ExprBase(
+              TermRec(
+                TermBase(
+                  SignedFactorPos(
+                    FactorDes(
+                      DesignatorBase(
+                       arg
+                      ) [DesignatorBase]
+                    ) [FactorDes]
+                  ) [SignedFactorPos]
+                ) [TermBase]
+                MulopMul(
+                ) [MulopMul]
+                SignedFactorPos(
+                  FactorConst(
+                    ConstFN(
+                     2
+                    ) [ConstFN]
+                  ) [FactorConst]
+                ) [SignedFactorPos]
+              ) [TermRec]
+            ) [ExprBase]
+          ) [StmtRetExpr]
+        ) [StmtListRec]
+      ) [MethodDecl]
+    ) [MethDeclListRec]
+    MethodDecl(
+      MethodSignature(
+        MethTypeV(
+        ) [MethTypeV]
+        MethName(
+         main
+        ) [MethName]
+        MethParsEps(
+        ) [MethParsEps]
+      ) [MethodSignature]
+      VarDeclListBase(
+      ) [VarDeclListBase]
+      StmtListRec(
+        StmtListRec(
+          StmtListRec(
+            StmtListRec(
+              StmtListRec(
+                StmtListRec(
+                  StmtListRec(
+                    StmtListRec(
+                      StmtListRec(
+                        StmtListRec(
+                          StmtListRec(
+                            StmtListRec(
+                              StmtListRec(
+                                StmtListRec(
+                                  StmtListRec(
+                                    StmtListRec(
+                                      StmtListRec(
+                                        StmtListRec(
+                                          StmtListRec(
+                                            StmtListRec(
+                                              StmtListRec(
+                                                StmtListRec(
+                                                  StmtListRec(
+                                                    StmtListRec(
+                                                      StmtListRec(
+                                                        StmtListRec(
+                                                          StmtListRec(
+                                                            StmtListRec(
+                                                              StmtListRec(
+                                                                StmtListRec(
+                                                                  StmtListRec(
+                                                                    StmtListRec(
+                                                                      StmtListRec(
+                                                                        StmtListRec(
+                                                                          StmtListRec(
+                                                                            StmtListRec(
+                                                                              StmtListRec(
+                                                                                StmtListRec(
+                                                                                  StmtListRec(
+                                                                                    StmtListRec(
+                                                                                      StmtListRec(
+                                                                                        StmtListRec(
+                                                                                          StmtListRec(
+                                                                                            StmtListRec(
+                                                                                              StmtListBase(
+                                                                                              ) [StmtListBase]
+                                                                                              StmtIfElse(
+                                                                                                ConditionBase(
+                                                                                                  CondTermBase(
+                                                                                                    CondFactOp(
+                                                                                                      ExprBase(
+                                                                                                        TermBase(
+                                                                                                          SignedFactorPos(
+                                                                                                            FactorConst(
+                                                                                                              ConstFN(
+                                                                                                               1
+                                                                                                              ) [ConstFN]
+                                                                                                            ) [FactorConst]
+                                                                                                          ) [SignedFactorPos]
+                                                                                                        ) [TermBase]
+                                                                                                      ) [ExprBase]
+                                                                                                      RelopNeq(
+                                                                                                      ) [RelopNeq]
+                                                                                                      ExprBase(
+                                                                                                        TermBase(
+                                                                                                          SignedFactorPos(
+                                                                                                            FactorConst(
+                                                                                                              ConstFN(
+                                                                                                               1
+                                                                                                              ) [ConstFN]
+                                                                                                            ) [FactorConst]
+                                                                                                          ) [SignedFactorPos]
+                                                                                                        ) [TermBase]
+                                                                                                      ) [ExprBase]
+                                                                                                    ) [CondFactOp]
+                                                                                                  ) [CondTermBase]
+                                                                                                ) [ConditionBase]
+                                                                                                StmtPrint(
+                                                                                                  ExprBase(
+                                                                                                    TermBase(
+                                                                                                      SignedFactorNeg(
+                                                                                                        FactorConst(
+                                                                                                          ConstFN(
+                                                                                                           6
+                                                                                                          ) [ConstFN]
+                                                                                                        ) [FactorConst]
+                                                                                                      ) [SignedFactorNeg]
+                                                                                                    ) [TermBase]
+                                                                                                  ) [ExprBase]
+                                                                                                ) [StmtPrint]
+                                                                                                Else(
+                                                                                                ) [Else]
+                                                                                                StmtPrint(
+                                                                                                  ExprBase(
+                                                                                                    TermBase(
+                                                                                                      SignedFactorPos(
+                                                                                                        FactorConst(
+                                                                                                          ConstFN(
+                                                                                                           0
+                                                                                                          ) [ConstFN]
+                                                                                                        ) [FactorConst]
+                                                                                                      ) [SignedFactorPos]
+                                                                                                    ) [TermBase]
+                                                                                                  ) [ExprBase]
+                                                                                                ) [StmtPrint]
+                                                                                              ) [StmtIfElse]
+                                                                                            ) [StmtListRec]
+                                                                                            StmtPrint(
+                                                                                              ExprBase(
+                                                                                                TermBase(
+                                                                                                  SignedFactorPos(
+                                                                                                    FactorDes(
+                                                                                                      DesignatorBase(
+                                                                                                       eol
+                                                                                                      ) [DesignatorBase]
+                                                                                                    ) [FactorDes]
+                                                                                                  ) [SignedFactorPos]
+                                                                                                ) [TermBase]
+                                                                                              ) [ExprBase]
+                                                                                            ) [StmtPrint]
+                                                                                          ) [StmtListRec]
+                                                                                          StmtDes(
+                                                                                            DesStmtAssExpr(
+                                                                                              DesignatorBase(
+                                                                                               ibool
+                                                                                              ) [DesignatorBase]
+                                                                                              Assignop(
+                                                                                              ) [Assignop]
+                                                                                              ExprBase(
+                                                                                                TermBase(
+                                                                                                  SignedFactorPos(
+                                                                                                    FactorConst(
+                                                                                                      ConstFB(
+                                                                                                       0
+                                                                                                      ) [ConstFB]
+                                                                                                    ) [FactorConst]
+                                                                                                  ) [SignedFactorPos]
+                                                                                                ) [TermBase]
+                                                                                              ) [ExprBase]
+                                                                                            ) [DesStmtAssExpr]
+                                                                                          ) [StmtDes]
+                                                                                        ) [StmtListRec]
+                                                                                        StmtDes(
+                                                                                          DesStmtAssExpr(
+                                                                                            DesignatorBase(
+                                                                                             i
+                                                                                            ) [DesignatorBase]
+                                                                                            Assignop(
+                                                                                            ) [Assignop]
+                                                                                            ExprBase(
+                                                                                              TermBase(
+                                                                                                SignedFactorPos(
+                                                                                                  FactorConst(
+                                                                                                    ConstFN(
+                                                                                                     0
+                                                                                                    ) [ConstFN]
+                                                                                                  ) [FactorConst]
+                                                                                                ) [SignedFactorPos]
+                                                                                              ) [TermBase]
+                                                                                            ) [ExprBase]
+                                                                                          ) [DesStmtAssExpr]
+                                                                                        ) [StmtDes]
+                                                                                      ) [StmtListRec]
+                                                                                      StmtDoFull(
+                                                                                        Do(
+                                                                                        ) [Do]
+                                                                                        StmtRec(
+                                                                                          StmtListRec(
+                                                                                            StmtListBase(
+                                                                                            ) [StmtListBase]
+                                                                                            StmtIf(
+                                                                                              ConditionBase(
+                                                                                                CondTermBase(
+                                                                                                  CondFactOp(
+                                                                                                    ExprBase(
+                                                                                                      TermBase(
+                                                                                                        SignedFactorPos(
+                                                                                                          FactorDes(
+                                                                                                            DesignatorBase(
+                                                                                                             i
+                                                                                                            ) [DesignatorBase]
+                                                                                                          ) [FactorDes]
+                                                                                                        ) [SignedFactorPos]
+                                                                                                      ) [TermBase]
+                                                                                                    ) [ExprBase]
+                                                                                                    RelopEqu(
+                                                                                                    ) [RelopEqu]
+                                                                                                    ExprBase(
+                                                                                                      TermBase(
+                                                                                                        SignedFactorPos(
+                                                                                                          FactorConst(
+                                                                                                            ConstFN(
+                                                                                                             2
+                                                                                                            ) [ConstFN]
+                                                                                                          ) [FactorConst]
+                                                                                                        ) [SignedFactorPos]
+                                                                                                      ) [TermBase]
+                                                                                                    ) [ExprBase]
+                                                                                                  ) [CondFactOp]
+                                                                                                ) [CondTermBase]
+                                                                                              ) [ConditionBase]
+                                                                                              StmtDes(
+                                                                                                DesStmtAssExpr(
+                                                                                                  DesignatorBase(
+                                                                                                   ibool
+                                                                                                  ) [DesignatorBase]
+                                                                                                  Assignop(
+                                                                                                  ) [Assignop]
+                                                                                                  ExprBase(
+                                                                                                    TermBase(
+                                                                                                      SignedFactorPos(
+                                                                                                        FactorConst(
+                                                                                                          ConstFB(
+                                                                                                           1
+                                                                                                          ) [ConstFB]
+                                                                                                        ) [FactorConst]
+                                                                                                      ) [SignedFactorPos]
+                                                                                                    ) [TermBase]
+                                                                                                  ) [ExprBase]
+                                                                                                ) [DesStmtAssExpr]
+                                                                                              ) [StmtDes]
+                                                                                            ) [StmtIf]
+                                                                                          ) [StmtListRec]
+                                                                                        ) [StmtRec]
+                                                                                        While(
+                                                                                        ) [While]
+                                                                                        ConditionBase(
+                                                                                          CondTermBase(
+                                                                                            CondFactOp(
+                                                                                              ExprBase(
+                                                                                                TermBase(
+                                                                                                  SignedFactorPos(
+                                                                                                    FactorDes(
+                                                                                                      DesignatorBase(
+                                                                                                       i
+                                                                                                      ) [DesignatorBase]
+                                                                                                    ) [FactorDes]
+                                                                                                  ) [SignedFactorPos]
+                                                                                                ) [TermBase]
+                                                                                              ) [ExprBase]
+                                                                                              RelopLes(
+                                                                                              ) [RelopLes]
+                                                                                              ExprBase(
+                                                                                                TermBase(
+                                                                                                  SignedFactorPos(
+                                                                                                    FactorConst(
+                                                                                                      ConstFN(
+                                                                                                       5
+                                                                                                      ) [ConstFN]
+                                                                                                    ) [FactorConst]
+                                                                                                  ) [SignedFactorPos]
+                                                                                                ) [TermBase]
+                                                                                              ) [ExprBase]
+                                                                                            ) [CondFactOp]
+                                                                                          ) [CondTermBase]
+                                                                                        ) [ConditionBase]
+                                                                                        DesStmtInc(
+                                                                                          DesignatorBase(
+                                                                                           i
+                                                                                          ) [DesignatorBase]
+                                                                                        ) [DesStmtInc]
+                                                                                      ) [StmtDoFull]
+                                                                                    ) [StmtListRec]
+                                                                                    StmtIf(
+                                                                                      ConditionBase(
+                                                                                        CondTermBase(
+                                                                                          CondFactNoOp(
+                                                                                            ExprBase(
+                                                                                              TermBase(
+                                                                                                SignedFactorPos(
+                                                                                                  FactorDes(
+                                                                                                    DesignatorBase(
+                                                                                                     ibool
+                                                                                                    ) [DesignatorBase]
+                                                                                                  ) [FactorDes]
+                                                                                                ) [SignedFactorPos]
+                                                                                              ) [TermBase]
+                                                                                            ) [ExprBase]
+                                                                                          ) [CondFactNoOp]
+                                                                                        ) [CondTermBase]
+                                                                                      ) [ConditionBase]
+                                                                                      StmtIfElse(
+                                                                                        ConditionBase(
+                                                                                          CondTermBase(
+                                                                                            CondFactOp(
+                                                                                              ExprBase(
+                                                                                                TermBase(
+                                                                                                  SignedFactorPos(
+                                                                                                    FactorDes(
+                                                                                                      DesignatorBase(
+                                                                                                       i
+                                                                                                      ) [DesignatorBase]
+                                                                                                    ) [FactorDes]
+                                                                                                  ) [SignedFactorPos]
+                                                                                                ) [TermBase]
+                                                                                              ) [ExprBase]
+                                                                                              RelopEqu(
+                                                                                              ) [RelopEqu]
+                                                                                              ExprBase(
+                                                                                                TermBase(
+                                                                                                  SignedFactorPos(
+                                                                                                    FactorConst(
+                                                                                                      ConstFN(
+                                                                                                       5
+                                                                                                      ) [ConstFN]
+                                                                                                    ) [FactorConst]
+                                                                                                  ) [SignedFactorPos]
+                                                                                                ) [TermBase]
+                                                                                              ) [ExprBase]
+                                                                                            ) [CondFactOp]
+                                                                                          ) [CondTermBase]
+                                                                                        ) [ConditionBase]
+                                                                                        StmtPrint(
+                                                                                          ExprBase(
+                                                                                            TermBase(
+                                                                                              SignedFactorPos(
+                                                                                                FactorConst(
+                                                                                                  ConstFN(
+                                                                                                   1
+                                                                                                  ) [ConstFN]
+                                                                                                ) [FactorConst]
+                                                                                              ) [SignedFactorPos]
+                                                                                            ) [TermBase]
+                                                                                          ) [ExprBase]
+                                                                                        ) [StmtPrint]
+                                                                                        Else(
+                                                                                        ) [Else]
+                                                                                        StmtPrint(
+                                                                                          ExprBase(
+                                                                                            TermBase(
+                                                                                              SignedFactorNeg(
+                                                                                                FactorConst(
+                                                                                                  ConstFN(
+                                                                                                   1
+                                                                                                  ) [ConstFN]
+                                                                                                ) [FactorConst]
+                                                                                              ) [SignedFactorNeg]
+                                                                                            ) [TermBase]
+                                                                                          ) [ExprBase]
+                                                                                        ) [StmtPrint]
+                                                                                      ) [StmtIfElse]
+                                                                                    ) [StmtIf]
+                                                                                  ) [StmtListRec]
+                                                                                  StmtDes(
+                                                                                    DesStmtAssExpr(
+                                                                                      DesignatorBase(
+                                                                                       a
+                                                                                      ) [DesignatorBase]
+                                                                                      Assignop(
+                                                                                      ) [Assignop]
+                                                                                      ExprBase(
+                                                                                        TermBase(
+                                                                                          SignedFactorPos(
+                                                                                            FactorConst(
+                                                                                              ConstFN(
+                                                                                               2
+                                                                                              ) [ConstFN]
+                                                                                            ) [FactorConst]
+                                                                                          ) [SignedFactorPos]
+                                                                                        ) [TermBase]
+                                                                                      ) [ExprBase]
+                                                                                    ) [DesStmtAssExpr]
+                                                                                  ) [StmtDes]
+                                                                                ) [StmtListRec]
+                                                                                StmtDes(
+                                                                                  DesStmtAssExpr(
+                                                                                    DesignatorBase(
+                                                                                     niz
+                                                                                    ) [DesignatorBase]
+                                                                                    Assignop(
+                                                                                    ) [Assignop]
+                                                                                    ExprBase(
+                                                                                      TermBase(
+                                                                                        SignedFactorPos(
+                                                                                          FactorNew(
+                                                                                            Type(
+                                                                                             int
+                                                                                            ) [Type]
+                                                                                            ExprBase(
+                                                                                              TermBase(
+                                                                                                SignedFactorPos(
+                                                                                                  FactorConst(
+                                                                                                    ConstFN(
+                                                                                                     3
+                                                                                                    ) [ConstFN]
+                                                                                                  ) [FactorConst]
+                                                                                                ) [SignedFactorPos]
+                                                                                              ) [TermBase]
+                                                                                            ) [ExprBase]
+                                                                                          ) [FactorNew]
+                                                                                        ) [SignedFactorPos]
+                                                                                      ) [TermBase]
+                                                                                    ) [ExprBase]
+                                                                                  ) [DesStmtAssExpr]
+                                                                                ) [StmtDes]
+                                                                              ) [StmtListRec]
+                                                                              StmtDes(
+                                                                                DesStmtAssExpr(
+                                                                                  DesignatorArr(
+                                                                                    DesignatorName(
+                                                                                     niz
+                                                                                    ) [DesignatorName]
+                                                                                    ExprBase(
+                                                                                      TermBase(
+                                                                                        SignedFactorPos(
+                                                                                          FactorConst(
+                                                                                            ConstFN(
+                                                                                             0
+                                                                                            ) [ConstFN]
+                                                                                          ) [FactorConst]
+                                                                                        ) [SignedFactorPos]
+                                                                                      ) [TermBase]
+                                                                                    ) [ExprBase]
+                                                                                  ) [DesignatorArr]
+                                                                                  Assignop(
+                                                                                  ) [Assignop]
+                                                                                  ExprBase(
+                                                                                    TermRec(
+                                                                                      TermBase(
+                                                                                        SignedFactorPos(
+                                                                                          FactorConst(
+                                                                                            ConstFN(
+                                                                                             1
+                                                                                            ) [ConstFN]
+                                                                                          ) [FactorConst]
+                                                                                        ) [SignedFactorPos]
+                                                                                      ) [TermBase]
+                                                                                      MulopMul(
+                                                                                      ) [MulopMul]
+                                                                                      SignedFactorPos(
+                                                                                        FactorDes(
+                                                                                          DesignatorBase(
+                                                                                           a
+                                                                                          ) [DesignatorBase]
+                                                                                        ) [FactorDes]
+                                                                                      ) [SignedFactorPos]
+                                                                                    ) [TermRec]
+                                                                                  ) [ExprBase]
+                                                                                ) [DesStmtAssExpr]
+                                                                              ) [StmtDes]
+                                                                            ) [StmtListRec]
+                                                                            StmtDes(
+                                                                              DesStmtAssExpr(
+                                                                                DesignatorArr(
+                                                                                  DesignatorName(
+                                                                                   niz
+                                                                                  ) [DesignatorName]
+                                                                                  ExprBase(
+                                                                                    TermBase(
+                                                                                      SignedFactorPos(
+                                                                                        FactorConst(
+                                                                                          ConstFN(
+                                                                                           1
+                                                                                          ) [ConstFN]
+                                                                                        ) [FactorConst]
+                                                                                      ) [SignedFactorPos]
+                                                                                    ) [TermBase]
+                                                                                  ) [ExprBase]
+                                                                                ) [DesignatorArr]
+                                                                                Assignop(
+                                                                                ) [Assignop]
+                                                                                ExprBase(
+                                                                                  TermRec(
+                                                                                    TermBase(
+                                                                                      SignedFactorPos(
+                                                                                        FactorConst(
+                                                                                          ConstFN(
+                                                                                           2
+                                                                                          ) [ConstFN]
+                                                                                        ) [FactorConst]
+                                                                                      ) [SignedFactorPos]
+                                                                                    ) [TermBase]
+                                                                                    MulopMul(
+                                                                                    ) [MulopMul]
+                                                                                    SignedFactorPos(
+                                                                                      FactorDes(
+                                                                                        DesignatorBase(
+                                                                                         a
+                                                                                        ) [DesignatorBase]
+                                                                                      ) [FactorDes]
+                                                                                    ) [SignedFactorPos]
+                                                                                  ) [TermRec]
+                                                                                ) [ExprBase]
+                                                                              ) [DesStmtAssExpr]
+                                                                            ) [StmtDes]
+                                                                          ) [StmtListRec]
+                                                                          StmtDes(
+                                                                            DesStmtAssExpr(
+                                                                              DesignatorBase(
+                                                                               brojka
+                                                                              ) [DesignatorBase]
+                                                                              Assignop(
+                                                                              ) [Assignop]
+                                                                              ExprRec(
+                                                                                ExprBase(
+                                                                                  TermRec(
+                                                                                    TermBase(
+                                                                                      SignedFactorPos(
+                                                                                        FactorPars(
+                                                                                          DesignatorBase(
+                                                                                           sum
+                                                                                          ) [DesignatorBase]
+                                                                                          ParenParsPars(
+                                                                                            ActParsRec(
+                                                                                              ActParsBase(
+                                                                                                ExprBase(
+                                                                                                  TermBase(
+                                                                                                    SignedFactorPos(
+                                                                                                      FactorDes(
+                                                                                                        DesignatorArr(
+                                                                                                          DesignatorName(
+                                                                                                           niz
+                                                                                                          ) [DesignatorName]
+                                                                                                          ExprBase(
+                                                                                                            TermBase(
+                                                                                                              SignedFactorPos(
+                                                                                                                FactorConst(
+                                                                                                                  ConstFN(
+                                                                                                                   1
+                                                                                                                  ) [ConstFN]
+                                                                                                                ) [FactorConst]
+                                                                                                              ) [SignedFactorPos]
+                                                                                                            ) [TermBase]
+                                                                                                          ) [ExprBase]
+                                                                                                        ) [DesignatorArr]
+                                                                                                      ) [FactorDes]
+                                                                                                    ) [SignedFactorPos]
+                                                                                                  ) [TermBase]
+                                                                                                ) [ExprBase]
+                                                                                              ) [ActParsBase]
+                                                                                              ExprBase(
+                                                                                                TermBase(
+                                                                                                  SignedFactorPos(
+                                                                                                    FactorDes(
+                                                                                                      DesignatorArr(
+                                                                                                        DesignatorName(
+                                                                                                         niz
+                                                                                                        ) [DesignatorName]
+                                                                                                        ExprBase(
+                                                                                                          TermBase(
+                                                                                                            SignedFactorPos(
+                                                                                                              FactorConst(
+                                                                                                                ConstFN(
+                                                                                                                 0
+                                                                                                                ) [ConstFN]
+                                                                                                              ) [FactorConst]
+                                                                                                            ) [SignedFactorPos]
+                                                                                                          ) [TermBase]
+                                                                                                        ) [ExprBase]
+                                                                                                      ) [DesignatorArr]
+                                                                                                    ) [FactorDes]
+                                                                                                  ) [SignedFactorPos]
+                                                                                                ) [TermBase]
+                                                                                              ) [ExprBase]
+                                                                                            ) [ActParsRec]
+                                                                                          ) [ParenParsPars]
+                                                                                        ) [FactorPars]
+                                                                                      ) [SignedFactorPos]
+                                                                                    ) [TermBase]
+                                                                                    MulopMul(
+                                                                                    ) [MulopMul]
+                                                                                    SignedFactorPos(
+                                                                                      FactorDes(
+                                                                                        DesignatorBase(
+                                                                                         a
+                                                                                        ) [DesignatorBase]
+                                                                                      ) [FactorDes]
+                                                                                    ) [SignedFactorPos]
+                                                                                  ) [TermRec]
+                                                                                ) [ExprBase]
+                                                                                AddopPlus(
+                                                                                ) [AddopPlus]
+                                                                                TermBase(
+                                                                                  SignedFactorPos(
+                                                                                    FactorConst(
+                                                                                      ConstFN(
+                                                                                       1
+                                                                                      ) [ConstFN]
+                                                                                    ) [FactorConst]
+                                                                                  ) [SignedFactorPos]
+                                                                                ) [TermBase]
+                                                                              ) [ExprRec]
+                                                                            ) [DesStmtAssExpr]
+                                                                          ) [StmtDes]
+                                                                        ) [StmtListRec]
+                                                                        StmtDes(
+                                                                          DesStmtAssExpr(
+                                                                            DesignatorArr(
+                                                                              DesignatorName(
+                                                                               niz
+                                                                              ) [DesignatorName]
+                                                                              ExprBase(
+                                                                                TermBase(
+                                                                                  SignedFactorPos(
+                                                                                    FactorConst(
+                                                                                      ConstFN(
+                                                                                       2
+                                                                                      ) [ConstFN]
+                                                                                    ) [FactorConst]
+                                                                                  ) [SignedFactorPos]
+                                                                                ) [TermBase]
+                                                                              ) [ExprBase]
+                                                                            ) [DesignatorArr]
+                                                                            Assignop(
+                                                                            ) [Assignop]
+                                                                            ExprBase(
+                                                                              TermBase(
+                                                                                SignedFactorPos(
+                                                                                  FactorDes(
+                                                                                    DesignatorBase(
+                                                                                     brojka
+                                                                                    ) [DesignatorBase]
+                                                                                  ) [FactorDes]
+                                                                                ) [SignedFactorPos]
+                                                                              ) [TermBase]
+                                                                            ) [ExprBase]
+                                                                          ) [DesStmtAssExpr]
+                                                                        ) [StmtDes]
+                                                                      ) [StmtListRec]
+                                                                      StmtIfElse(
+                                                                        ConditionRec(
+                                                                          ConditionBase(
+                                                                            CondTermBase(
+                                                                              CondFactNoOp(
+                                                                                ExprBase(
+                                                                                  TermBase(
+                                                                                    SignedFactorPos(
+                                                                                      FactorPars(
+                                                                                        DesignatorBase(
+                                                                                         verify
+                                                                                        ) [DesignatorBase]
+                                                                                        ParenParsParen(
+                                                                                        ) [ParenParsParen]
+                                                                                      ) [FactorPars]
+                                                                                    ) [SignedFactorPos]
+                                                                                  ) [TermBase]
+                                                                                ) [ExprBase]
+                                                                              ) [CondFactNoOp]
+                                                                            ) [CondTermBase]
+                                                                          ) [ConditionBase]
+                                                                          CondTermBase(
+                                                                            CondFactOp(
+                                                                              ExprBase(
+                                                                                TermBase(
+                                                                                  SignedFactorPos(
+                                                                                    FactorDes(
+                                                                                      DesignatorArr(
+                                                                                        DesignatorName(
+                                                                                         niz
+                                                                                        ) [DesignatorName]
+                                                                                        ExprBase(
+                                                                                          TermBase(
+                                                                                            SignedFactorPos(
+                                                                                              FactorConst(
+                                                                                                ConstFN(
+                                                                                                 2
+                                                                                                ) [ConstFN]
+                                                                                              ) [FactorConst]
+                                                                                            ) [SignedFactorPos]
+                                                                                          ) [TermBase]
+                                                                                        ) [ExprBase]
+                                                                                      ) [DesignatorArr]
+                                                                                    ) [FactorDes]
+                                                                                  ) [SignedFactorPos]
+                                                                                ) [TermBase]
+                                                                              ) [ExprBase]
+                                                                              RelopEqu(
+                                                                              ) [RelopEqu]
+                                                                              ExprBase(
+                                                                                TermBase(
+                                                                                  SignedFactorPos(
+                                                                                    FactorConst(
+                                                                                      ConstFN(
+                                                                                       4
+                                                                                      ) [ConstFN]
+                                                                                    ) [FactorConst]
+                                                                                  ) [SignedFactorPos]
+                                                                                ) [TermBase]
+                                                                              ) [ExprBase]
+                                                                            ) [CondFactOp]
+                                                                          ) [CondTermBase]
+                                                                        ) [ConditionRec]
+                                                                        StmtPrint(
+                                                                          ExprBase(
+                                                                            TermBase(
+                                                                              SignedFactorPos(
+                                                                                FactorPars(
+                                                                                  DesignatorBase(
+                                                                                   ord
+                                                                                  ) [DesignatorBase]
+                                                                                  ParenParsPars(
+                                                                                    ActParsBase(
+                                                                                      ExprBase(
+                                                                                        TermBase(
+                                                                                          SignedFactorPos(
+                                                                                            FactorConst(
+                                                                                              ConstFC(
+                                                                                               A
+                                                                                              ) [ConstFC]
+                                                                                            ) [FactorConst]
+                                                                                          ) [SignedFactorPos]
+                                                                                        ) [TermBase]
+                                                                                      ) [ExprBase]
+                                                                                    ) [ActParsBase]
+                                                                                  ) [ParenParsPars]
+                                                                                ) [FactorPars]
+                                                                              ) [SignedFactorPos]
+                                                                            ) [TermBase]
+                                                                          ) [ExprBase]
+                                                                        ) [StmtPrint]
+                                                                        Else(
+                                                                        ) [Else]
+                                                                        StmtPrint(
+                                                                          ExprBase(
+                                                                            TermBase(
+                                                                              SignedFactorPos(
+                                                                                FactorPars(
+                                                                                  DesignatorBase(
+                                                                                   ord
+                                                                                  ) [DesignatorBase]
+                                                                                  ParenParsPars(
+                                                                                    ActParsBase(
+                                                                                      ExprBase(
+                                                                                        TermBase(
+                                                                                          SignedFactorPos(
+                                                                                            FactorConst(
+                                                                                              ConstFC(
+                                                                                               a
+                                                                                              ) [ConstFC]
+                                                                                            ) [FactorConst]
+                                                                                          ) [SignedFactorPos]
+                                                                                        ) [TermBase]
+                                                                                      ) [ExprBase]
+                                                                                    ) [ActParsBase]
+                                                                                  ) [ParenParsPars]
+                                                                                ) [FactorPars]
+                                                                              ) [SignedFactorPos]
+                                                                            ) [TermBase]
+                                                                          ) [ExprBase]
+                                                                        ) [StmtPrint]
+                                                                      ) [StmtIfElse]
+                                                                    ) [StmtListRec]
+                                                                    StmtPrint(
+                                                                      ExprBase(
+                                                                        TermBase(
+                                                                          SignedFactorPos(
+                                                                            FactorDes(
+                                                                              DesignatorBase(
+                                                                               eol
+                                                                              ) [DesignatorBase]
+                                                                            ) [FactorDes]
+                                                                          ) [SignedFactorPos]
+                                                                        ) [TermBase]
+                                                                      ) [ExprBase]
+                                                                    ) [StmtPrint]
+                                                                  ) [StmtListRec]
+                                                                  StmtDes(
+                                                                    DesStmtAssExpr(
+                                                                      DesignatorBase(
+                                                                       i
+                                                                      ) [DesignatorBase]
+                                                                      Assignop(
+                                                                      ) [Assignop]
+                                                                      ExprBase(
+                                                                        TermBase(
+                                                                          SignedFactorPos(
+                                                                            FactorConst(
+                                                                              ConstFN(
+                                                                               0
+                                                                              ) [ConstFN]
+                                                                            ) [FactorConst]
+                                                                          ) [SignedFactorPos]
+                                                                        ) [TermBase]
+                                                                      ) [ExprBase]
+                                                                    ) [DesStmtAssExpr]
+                                                                  ) [StmtDes]
+                                                                ) [StmtListRec]
+                                                                StmtDoCond(
+                                                                  Do(
+                                                                  ) [Do]
+                                                                  StmtRec(
+                                                                    StmtListRec(
+                                                                      StmtListRec(
+                                                                        StmtListRec(
+                                                                          StmtListBase(
+                                                                          ) [StmtListBase]
+                                                                          StmtIf(
+                                                                            ConditionBase(
+                                                                              CondTermBase(
+                                                                                CondFactOp(
+                                                                                  ExprBase(
+                                                                                    TermBase(
+                                                                                      SignedFactorPos(
+                                                                                        FactorDes(
+                                                                                          DesignatorBase(
+                                                                                           i
+                                                                                          ) [DesignatorBase]
+                                                                                        ) [FactorDes]
+                                                                                      ) [SignedFactorPos]
+                                                                                    ) [TermBase]
+                                                                                  ) [ExprBase]
+                                                                                  RelopEqu(
+                                                                                  ) [RelopEqu]
+                                                                                  ExprBase(
+                                                                                    TermBase(
+                                                                                      SignedFactorPos(
+                                                                                        FactorConst(
+                                                                                          ConstFN(
+                                                                                           3
+                                                                                          ) [ConstFN]
+                                                                                        ) [FactorConst]
+                                                                                      ) [SignedFactorPos]
+                                                                                    ) [TermBase]
+                                                                                  ) [ExprBase]
+                                                                                ) [CondFactOp]
+                                                                              ) [CondTermBase]
+                                                                            ) [ConditionBase]
+                                                                            StmtRec(
+                                                                              StmtListRec(
+                                                                                StmtListRec(
+                                                                                  StmtListBase(
+                                                                                  ) [StmtListBase]
+                                                                                  StmtDes(
+                                                                                    DesStmtInc(
+                                                                                      DesignatorBase(
+                                                                                       i
+                                                                                      ) [DesignatorBase]
+                                                                                    ) [DesStmtInc]
+                                                                                  ) [StmtDes]
+                                                                                ) [StmtListRec]
+                                                                                StmtCont(
+                                                                                ) [StmtCont]
+                                                                              ) [StmtListRec]
+                                                                            ) [StmtRec]
+                                                                          ) [StmtIf]
+                                                                        ) [StmtListRec]
+                                                                        StmtIf(
+                                                                          ConditionBase(
+                                                                            CondTermBase(
+                                                                              CondFactOp(
+                                                                                ExprBase(
+                                                                                  TermBase(
+                                                                                    SignedFactorPos(
+                                                                                      FactorDes(
+                                                                                        DesignatorBase(
+                                                                                         i
+                                                                                        ) [DesignatorBase]
+                                                                                      ) [FactorDes]
+                                                                                    ) [SignedFactorPos]
+                                                                                  ) [TermBase]
+                                                                                ) [ExprBase]
+                                                                                RelopEqu(
+                                                                                ) [RelopEqu]
+                                                                                ExprBase(
+                                                                                  TermBase(
+                                                                                    SignedFactorPos(
+                                                                                      FactorConst(
+                                                                                        ConstFN(
+                                                                                         4
+                                                                                        ) [ConstFN]
+                                                                                      ) [FactorConst]
+                                                                                    ) [SignedFactorPos]
+                                                                                  ) [TermBase]
+                                                                                ) [ExprBase]
+                                                                              ) [CondFactOp]
+                                                                            ) [CondTermBase]
+                                                                          ) [ConditionBase]
+                                                                          StmtBreak(
+                                                                          ) [StmtBreak]
+                                                                        ) [StmtIf]
+                                                                      ) [StmtListRec]
+                                                                      StmtDes(
+                                                                        DesStmtAssExpr(
+                                                                          DesignatorBase(
+                                                                           i
+                                                                          ) [DesignatorBase]
+                                                                          Assignop(
+                                                                          ) [Assignop]
+                                                                          ExprBase(
+                                                                            TermBase(
+                                                                              SignedFactorPos(
+                                                                                FactorPars(
+                                                                                  DesignatorBase(
+                                                                                   inkrement
+                                                                                  ) [DesignatorBase]
+                                                                                  ParenParsPars(
+                                                                                    ActParsRec(
+                                                                                      ActParsBase(
+                                                                                        ExprBase(
+                                                                                          TermBase(
+                                                                                            SignedFactorPos(
+                                                                                              FactorDes(
+                                                                                                DesignatorBase(
+                                                                                                 i
+                                                                                                ) [DesignatorBase]
+                                                                                              ) [FactorDes]
+                                                                                            ) [SignedFactorPos]
+                                                                                          ) [TermBase]
+                                                                                        ) [ExprBase]
+                                                                                      ) [ActParsBase]
+                                                                                      ExprBase(
+                                                                                        TermBase(
+                                                                                          SignedFactorPos(
+                                                                                            FactorConst(
+                                                                                              ConstFN(
+                                                                                               1
+                                                                                              ) [ConstFN]
+                                                                                            ) [FactorConst]
+                                                                                          ) [SignedFactorPos]
+                                                                                        ) [TermBase]
+                                                                                      ) [ExprBase]
+                                                                                    ) [ActParsRec]
+                                                                                  ) [ParenParsPars]
+                                                                                ) [FactorPars]
+                                                                              ) [SignedFactorPos]
+                                                                            ) [TermBase]
+                                                                          ) [ExprBase]
+                                                                        ) [DesStmtAssExpr]
+                                                                      ) [StmtDes]
+                                                                    ) [StmtListRec]
+                                                                  ) [StmtRec]
+                                                                  While(
+                                                                  ) [While]
+                                                                  ConditionBase(
+                                                                    CondTermBase(
+                                                                      CondFactOp(
+                                                                        ExprBase(
+                                                                          TermBase(
+                                                                            SignedFactorPos(
+                                                                              FactorDes(
+                                                                                DesignatorBase(
+                                                                                 i
+                                                                                ) [DesignatorBase]
+                                                                              ) [FactorDes]
+                                                                            ) [SignedFactorPos]
+                                                                          ) [TermBase]
+                                                                        ) [ExprBase]
+                                                                        RelopLes(
+                                                                        ) [RelopLes]
+                                                                        ExprBase(
+                                                                          TermBase(
+                                                                            SignedFactorPos(
+                                                                              FactorConst(
+                                                                                ConstFN(
+                                                                                 10
+                                                                                ) [ConstFN]
+                                                                              ) [FactorConst]
+                                                                            ) [SignedFactorPos]
+                                                                          ) [TermBase]
+                                                                        ) [ExprBase]
+                                                                      ) [CondFactOp]
+                                                                    ) [CondTermBase]
+                                                                  ) [ConditionBase]
+                                                                ) [StmtDoCond]
+                                                              ) [StmtListRec]
+                                                              StmtIfElse(
+                                                                ConditionBase(
+                                                                  CondTermRec(
+                                                                    CondTermBase(
+                                                                      CondFactOp(
+                                                                        ExprBase(
+                                                                          TermBase(
+                                                                            SignedFactorPos(
+                                                                              FactorDes(
+                                                                                DesignatorBase(
+                                                                                 i
+                                                                                ) [DesignatorBase]
+                                                                              ) [FactorDes]
+                                                                            ) [SignedFactorPos]
+                                                                          ) [TermBase]
+                                                                        ) [ExprBase]
+                                                                        RelopEqu(
+                                                                        ) [RelopEqu]
+                                                                        ExprBase(
+                                                                          TermBase(
+                                                                            SignedFactorPos(
+                                                                              FactorConst(
+                                                                                ConstFN(
+                                                                                 3
+                                                                                ) [ConstFN]
+                                                                              ) [FactorConst]
+                                                                            ) [SignedFactorPos]
+                                                                          ) [TermBase]
+                                                                        ) [ExprBase]
+                                                                      ) [CondFactOp]
+                                                                    ) [CondTermBase]
+                                                                    CondFactNoOp(
+                                                                      ExprBase(
+                                                                        TermBase(
+                                                                          SignedFactorPos(
+                                                                            FactorPars(
+                                                                              DesignatorBase(
+                                                                               verify
+                                                                              ) [DesignatorBase]
+                                                                              ParenParsParen(
+                                                                              ) [ParenParsParen]
+                                                                            ) [FactorPars]
+                                                                          ) [SignedFactorPos]
+                                                                        ) [TermBase]
+                                                                      ) [ExprBase]
+                                                                    ) [CondFactNoOp]
+                                                                  ) [CondTermRec]
+                                                                ) [ConditionBase]
+                                                                StmtPrint(
+                                                                  ExprBase(
+                                                                    TermBase(
+                                                                      SignedFactorNeg(
+                                                                        FactorConst(
+                                                                          ConstFN(
+                                                                           4
+                                                                          ) [ConstFN]
+                                                                        ) [FactorConst]
+                                                                      ) [SignedFactorNeg]
+                                                                    ) [TermBase]
+                                                                  ) [ExprBase]
+                                                                ) [StmtPrint]
+                                                                Else(
+                                                                ) [Else]
+                                                                StmtPrint(
+                                                                  ExprBase(
+                                                                    TermBase(
+                                                                      SignedFactorPos(
+                                                                        FactorConst(
+                                                                          ConstFN(
+                                                                           4
+                                                                          ) [ConstFN]
+                                                                        ) [FactorConst]
+                                                                      ) [SignedFactorPos]
+                                                                    ) [TermBase]
+                                                                  ) [ExprBase]
+                                                                ) [StmtPrint]
+                                                              ) [StmtIfElse]
+                                                            ) [StmtListRec]
+                                                            StmtRead(
+                                                              DesignatorArr(
+                                                                DesignatorName(
+                                                                 niz
+                                                                ) [DesignatorName]
+                                                                ExprBase(
+                                                                  TermBase(
+                                                                    SignedFactorPos(
+                                                                      FactorConst(
+                                                                        ConstFN(
+                                                                         0
+                                                                        ) [ConstFN]
+                                                                      ) [FactorConst]
+                                                                    ) [SignedFactorPos]
+                                                                  ) [TermBase]
+                                                                ) [ExprBase]
+                                                              ) [DesignatorArr]
+                                                            ) [StmtRead]
+                                                          ) [StmtListRec]
+                                                          StmtRead(
+                                                            DesignatorArr(
+                                                              DesignatorName(
+                                                               niz
+                                                              ) [DesignatorName]
+                                                              ExprBase(
+                                                                TermBase(
+                                                                  SignedFactorPos(
+                                                                    FactorConst(
+                                                                      ConstFN(
+                                                                       1
+                                                                      ) [ConstFN]
+                                                                    ) [FactorConst]
+                                                                  ) [SignedFactorPos]
+                                                                ) [TermBase]
+                                                              ) [ExprBase]
+                                                            ) [DesignatorArr]
+                                                          ) [StmtRead]
+                                                        ) [StmtListRec]
+                                                        StmtRead(
+                                                          DesignatorArr(
+                                                            DesignatorName(
+                                                             niz
+                                                            ) [DesignatorName]
+                                                            ExprBase(
+                                                              TermBase(
+                                                                SignedFactorPos(
+                                                                  FactorConst(
+                                                                    ConstFN(
+                                                                     2
+                                                                    ) [ConstFN]
+                                                                  ) [FactorConst]
+                                                                ) [SignedFactorPos]
+                                                              ) [TermBase]
+                                                            ) [ExprBase]
+                                                          ) [DesignatorArr]
+                                                        ) [StmtRead]
+                                                      ) [StmtListRec]
+                                                      StmtPrint(
+                                                        ExprBase(
+                                                          TermBase(
+                                                            SignedFactorPos(
+                                                              FactorDes(
+                                                                DesignatorBase(
+                                                                 eol
+                                                                ) [DesignatorBase]
+                                                              ) [FactorDes]
+                                                            ) [SignedFactorPos]
+                                                          ) [TermBase]
+                                                        ) [ExprBase]
+                                                      ) [StmtPrint]
+                                                    ) [StmtListRec]
+                                                    StmtPrint(
+                                                      ExprBase(
+                                                        TermBase(
+                                                          SignedFactorPos(
+                                                            FactorPars(
+                                                              DesignatorBase(
+                                                               sum
+                                                              ) [DesignatorBase]
+                                                              ParenParsPars(
+                                                                ActParsRec(
+                                                                  ActParsBase(
+                                                                    ExprBase(
+                                                                      TermBase(
+                                                                        SignedFactorPos(
+                                                                          FactorPars(
+                                                                            DesignatorBase(
+                                                                             sum
+                                                                            ) [DesignatorBase]
+                                                                            ParenParsPars(
+                                                                              ActParsRec(
+                                                                                ActParsBase(
+                                                                                  ExprBase(
+                                                                                    TermBase(
+                                                                                      SignedFactorPos(
+                                                                                        FactorDes(
+                                                                                          DesignatorArr(
+                                                                                            DesignatorName(
+                                                                                             niz
+                                                                                            ) [DesignatorName]
+                                                                                            ExprBase(
+                                                                                              TermBase(
+                                                                                                SignedFactorPos(
+                                                                                                  FactorConst(
+                                                                                                    ConstFN(
+                                                                                                     0
+                                                                                                    ) [ConstFN]
+                                                                                                  ) [FactorConst]
+                                                                                                ) [SignedFactorPos]
+                                                                                              ) [TermBase]
+                                                                                            ) [ExprBase]
+                                                                                          ) [DesignatorArr]
+                                                                                        ) [FactorDes]
+                                                                                      ) [SignedFactorPos]
+                                                                                    ) [TermBase]
+                                                                                  ) [ExprBase]
+                                                                                ) [ActParsBase]
+                                                                                ExprBase(
+                                                                                  TermBase(
+                                                                                    SignedFactorPos(
+                                                                                      FactorDes(
+                                                                                        DesignatorArr(
+                                                                                          DesignatorName(
+                                                                                           niz
+                                                                                          ) [DesignatorName]
+                                                                                          ExprBase(
+                                                                                            TermBase(
+                                                                                              SignedFactorPos(
+                                                                                                FactorConst(
+                                                                                                  ConstFN(
+                                                                                                   1
+                                                                                                  ) [ConstFN]
+                                                                                                ) [FactorConst]
+                                                                                              ) [SignedFactorPos]
+                                                                                            ) [TermBase]
+                                                                                          ) [ExprBase]
+                                                                                        ) [DesignatorArr]
+                                                                                      ) [FactorDes]
+                                                                                    ) [SignedFactorPos]
+                                                                                  ) [TermBase]
+                                                                                ) [ExprBase]
+                                                                              ) [ActParsRec]
+                                                                            ) [ParenParsPars]
+                                                                          ) [FactorPars]
+                                                                        ) [SignedFactorPos]
+                                                                      ) [TermBase]
+                                                                    ) [ExprBase]
+                                                                  ) [ActParsBase]
+                                                                  ExprBase(
+                                                                    TermBase(
+                                                                      SignedFactorPos(
+                                                                        FactorDes(
+                                                                          DesignatorArr(
+                                                                            DesignatorName(
+                                                                             niz
+                                                                            ) [DesignatorName]
+                                                                            ExprBase(
+                                                                              TermBase(
+                                                                                SignedFactorPos(
+                                                                                  FactorConst(
+                                                                                    ConstFN(
+                                                                                     2
+                                                                                    ) [ConstFN]
+                                                                                  ) [FactorConst]
+                                                                                ) [SignedFactorPos]
+                                                                              ) [TermBase]
+                                                                            ) [ExprBase]
+                                                                          ) [DesignatorArr]
+                                                                        ) [FactorDes]
+                                                                      ) [SignedFactorPos]
+                                                                    ) [TermBase]
+                                                                  ) [ExprBase]
+                                                                ) [ActParsRec]
+                                                              ) [ParenParsPars]
+                                                            ) [FactorPars]
+                                                          ) [SignedFactorPos]
+                                                        ) [TermBase]
+                                                      ) [ExprBase]
+                                                    ) [StmtPrint]
+                                                  ) [StmtListRec]
+                                                  StmtPrint(
+                                                    ExprBase(
+                                                      TermBase(
+                                                        SignedFactorPos(
+                                                          FactorDes(
+                                                            DesignatorBase(
+                                                             eol
+                                                            ) [DesignatorBase]
+                                                          ) [FactorDes]
+                                                        ) [SignedFactorPos]
+                                                      ) [TermBase]
+                                                    ) [ExprBase]
+                                                  ) [StmtPrint]
+                                                ) [StmtListRec]
+                                                StmtPrint(
+                                                  ExprBase(
+                                                    TermBase(
+                                                      SignedFactorPos(
+                                                        FactorPars(
+                                                          DesignatorBase(
+                                                           inkrement
+                                                          ) [DesignatorBase]
+                                                          ParenParsPars(
+                                                            ActParsRec(
+                                                              ActParsBase(
+                                                                ExprBase(
+                                                                  TermBase(
+                                                                    SignedFactorPos(
+                                                                      FactorDes(
+                                                                        DesignatorArr(
+                                                                          DesignatorName(
+                                                                           niz
+                                                                          ) [DesignatorName]
+                                                                          ExprBase(
+                                                                            TermBase(
+                                                                              SignedFactorPos(
+                                                                                FactorConst(
+                                                                                  ConstFN(
+                                                                                   2
+                                                                                  ) [ConstFN]
+                                                                                ) [FactorConst]
+                                                                              ) [SignedFactorPos]
+                                                                            ) [TermBase]
+                                                                          ) [ExprBase]
+                                                                        ) [DesignatorArr]
+                                                                      ) [FactorDes]
+                                                                    ) [SignedFactorPos]
+                                                                  ) [TermBase]
+                                                                ) [ExprBase]
+                                                              ) [ActParsBase]
+                                                              ExprBase(
+                                                                TermBase(
+                                                                  SignedFactorPos(
+                                                                    FactorConst(
+                                                                      ConstFN(
+                                                                       2
+                                                                      ) [ConstFN]
+                                                                    ) [FactorConst]
+                                                                  ) [SignedFactorPos]
+                                                                ) [TermBase]
+                                                              ) [ExprBase]
+                                                            ) [ActParsRec]
+                                                          ) [ParenParsPars]
+                                                        ) [FactorPars]
+                                                      ) [SignedFactorPos]
+                                                    ) [TermBase]
+                                                  ) [ExprBase]
+                                                ) [StmtPrint]
+                                              ) [StmtListRec]
+                                              StmtPrint(
+                                                ExprBase(
+                                                  TermBase(
+                                                    SignedFactorPos(
+                                                      FactorDes(
+                                                        DesignatorBase(
+                                                         eol
+                                                        ) [DesignatorBase]
+                                                      ) [FactorDes]
+                                                    ) [SignedFactorPos]
+                                                  ) [TermBase]
+                                                ) [ExprBase]
+                                              ) [StmtPrint]
+                                            ) [StmtListRec]
+                                            StmtDes(
+                                              DesStmtAssExpr(
+                                                DesignatorBase(
+                                                 a
+                                                ) [DesignatorBase]
+                                                Assignop(
+                                                ) [Assignop]
+                                                ExprBase(
+                                                  TermBase(
+                                                    SignedFactorPos(
+                                                      FactorConst(
+                                                        ConstFN(
+                                                         3
+                                                        ) [ConstFN]
+                                                      ) [FactorConst]
+                                                    ) [SignedFactorPos]
+                                                  ) [TermBase]
+                                                ) [ExprBase]
+                                              ) [DesStmtAssExpr]
+                                            ) [StmtDes]
+                                          ) [StmtListRec]
+                                          StmtDes(
+                                            DesStmtAssExpr(
+                                              DesignatorBase(
+                                               i
+                                              ) [DesignatorBase]
+                                              Assignop(
+                                              ) [Assignop]
+                                              ExprBase(
+                                                TermBase(
+                                                  SignedFactorPos(
+                                                    FactorConst(
+                                                      ConstFN(
+                                                       0
+                                                      ) [ConstFN]
+                                                    ) [FactorConst]
+                                                  ) [SignedFactorPos]
+                                                ) [TermBase]
+                                              ) [ExprBase]
+                                            ) [DesStmtAssExpr]
+                                          ) [StmtDes]
+                                        ) [StmtListRec]
+                                        StmtDoFull(
+                                          Do(
+                                          ) [Do]
+                                          StmtRec(
+                                            StmtListRec(
+                                              StmtListBase(
+                                              ) [StmtListBase]
+                                              StmtDes(
+                                                DesStmtAssExpr(
+                                                  DesignatorArr(
+                                                    DesignatorName(
+                                                     niz
+                                                    ) [DesignatorName]
+                                                    ExprBase(
+                                                      TermBase(
+                                                        SignedFactorPos(
+                                                          FactorDes(
+                                                            DesignatorBase(
+                                                             i
+                                                            ) [DesignatorBase]
+                                                          ) [FactorDes]
+                                                        ) [SignedFactorPos]
+                                                      ) [TermBase]
+                                                    ) [ExprBase]
+                                                  ) [DesignatorArr]
+                                                  Assignop(
+                                                  ) [Assignop]
+                                                  ExprBase(
+                                                    TermRec(
+                                                      TermRec(
+                                                        TermBase(
+                                                          SignedFactorPos(
+                                                            FactorDes(
+                                                              DesignatorArr(
+                                                                DesignatorName(
+                                                                 niz
+                                                                ) [DesignatorName]
+                                                                ExprBase(
+                                                                  TermBase(
+                                                                    SignedFactorPos(
+                                                                      FactorDes(
+                                                                        DesignatorBase(
+                                                                         i
+                                                                        ) [DesignatorBase]
+                                                                      ) [FactorDes]
+                                                                    ) [SignedFactorPos]
+                                                                  ) [TermBase]
+                                                                ) [ExprBase]
+                                                              ) [DesignatorArr]
+                                                            ) [FactorDes]
+                                                          ) [SignedFactorPos]
+                                                        ) [TermBase]
+                                                        MulopMul(
+                                                        ) [MulopMul]
+                                                        SignedFactorPos(
+                                                          FactorConst(
+                                                            ConstFN(
+                                                             2
+                                                            ) [ConstFN]
+                                                          ) [FactorConst]
+                                                        ) [SignedFactorPos]
+                                                      ) [TermRec]
+                                                      MulopMul(
+                                                      ) [MulopMul]
+                                                      SignedFactorPos(
+                                                        FactorDes(
+                                                          DesignatorBase(
+                                                           a
+                                                          ) [DesignatorBase]
+                                                        ) [FactorDes]
+                                                      ) [SignedFactorPos]
+                                                    ) [TermRec]
+                                                  ) [ExprBase]
+                                                ) [DesStmtAssExpr]
+                                              ) [StmtDes]
+                                            ) [StmtListRec]
+                                          ) [StmtRec]
+                                          While(
+                                          ) [While]
+                                          ConditionBase(
+                                            CondTermBase(
+                                              CondFactOp(
+                                                ExprBase(
+                                                  TermBase(
+                                                    SignedFactorPos(
+                                                      FactorDes(
+                                                        DesignatorBase(
+                                                         i
+                                                        ) [DesignatorBase]
+                                                      ) [FactorDes]
+                                                    ) [SignedFactorPos]
+                                                  ) [TermBase]
+                                                ) [ExprBase]
+                                                RelopLes(
+                                                ) [RelopLes]
+                                                ExprBase(
+                                                  TermBase(
+                                                    SignedFactorPos(
+                                                      FactorConst(
+                                                        ConstFN(
+                                                         3
+                                                        ) [ConstFN]
+                                                      ) [FactorConst]
+                                                    ) [SignedFactorPos]
+                                                  ) [TermBase]
+                                                ) [ExprBase]
+                                              ) [CondFactOp]
+                                            ) [CondTermBase]
+                                          ) [ConditionBase]
+                                          DesStmtInc(
+                                            DesignatorBase(
+                                             i
+                                            ) [DesignatorBase]
+                                          ) [DesStmtInc]
+                                        ) [StmtDoFull]
+                                      ) [StmtListRec]
+                                      StmtDes(
+                                        DesStmtAssExpr(
+                                          DesignatorBase(
+                                           i
+                                          ) [DesignatorBase]
+                                          Assignop(
+                                          ) [Assignop]
+                                          ExprBase(
+                                            TermBase(
+                                              SignedFactorPos(
+                                                FactorConst(
+                                                  ConstFN(
+                                                   0
+                                                  ) [ConstFN]
+                                                ) [FactorConst]
+                                              ) [SignedFactorPos]
+                                            ) [TermBase]
+                                          ) [ExprBase]
+                                        ) [DesStmtAssExpr]
+                                      ) [StmtDes]
+                                    ) [StmtListRec]
+                                    StmtDoFull(
+                                      Do(
+                                      ) [Do]
+                                      StmtPrint(
+                                        ExprBase(
+                                          TermBase(
+                                            SignedFactorPos(
+                                              FactorDes(
+                                                DesignatorArr(
+                                                  DesignatorName(
+                                                   niz
+                                                  ) [DesignatorName]
+                                                  ExprBase(
+                                                    TermBase(
+                                                      SignedFactorPos(
+                                                        FactorDes(
+                                                          DesignatorBase(
+                                                           i
+                                                          ) [DesignatorBase]
+                                                        ) [FactorDes]
+                                                      ) [SignedFactorPos]
+                                                    ) [TermBase]
+                                                  ) [ExprBase]
+                                                ) [DesignatorArr]
+                                              ) [FactorDes]
+                                            ) [SignedFactorPos]
+                                          ) [TermBase]
+                                        ) [ExprBase]
+                                      ) [StmtPrint]
+                                      While(
+                                      ) [While]
+                                      ConditionBase(
+                                        CondTermBase(
+                                          CondFactOp(
+                                            ExprBase(
+                                              TermBase(
+                                                SignedFactorPos(
+                                                  FactorDes(
+                                                    DesignatorBase(
+                                                     i
+                                                    ) [DesignatorBase]
+                                                  ) [FactorDes]
+                                                ) [SignedFactorPos]
+                                              ) [TermBase]
+                                            ) [ExprBase]
+                                            RelopLes(
+                                            ) [RelopLes]
+                                            ExprBase(
+                                              TermBase(
+                                                SignedFactorPos(
+                                                  FactorConst(
+                                                    ConstFN(
+                                                     3
+                                                    ) [ConstFN]
+                                                  ) [FactorConst]
+                                                ) [SignedFactorPos]
+                                              ) [TermBase]
+                                            ) [ExprBase]
+                                          ) [CondFactOp]
+                                        ) [CondTermBase]
+                                      ) [ConditionBase]
+                                      DesStmtInc(
+                                        DesignatorBase(
+                                         i
+                                        ) [DesignatorBase]
+                                      ) [DesStmtInc]
+                                    ) [StmtDoFull]
+                                  ) [StmtListRec]
+                                  StmtPrint(
+                                    ExprBase(
+                                      TermBase(
+                                        SignedFactorPos(
+                                          FactorDes(
+                                            DesignatorBase(
+                                             eol
+                                            ) [DesignatorBase]
+                                          ) [FactorDes]
+                                        ) [SignedFactorPos]
+                                      ) [TermBase]
+                                    ) [ExprBase]
+                                  ) [StmtPrint]
+                                ) [StmtListRec]
+                                StmtDes(
+                                  DesStmtAssExpr(
+                                    DesignatorBase(
+                                     niz2
+                                    ) [DesignatorBase]
+                                    Assignop(
+                                    ) [Assignop]
+                                    ExprBase(
+                                      TermBase(
+                                        SignedFactorPos(
+                                          FactorConst(
+                                            ConstFN(
+                                             0
+                                            ) [ConstFN]
+                                          ) [FactorConst]
+                                        ) [SignedFactorPos]
+                                      ) [TermBase]
+                                    ) [ExprBase]
+                                  ) [DesStmtAssExpr]
+                                ) [StmtDes]
+                              ) [StmtListRec]
+                              StmtDoFull(
+                                Do(
+                                ) [Do]
+                                StmtDes(
+                                  DesStmtAssExpr(
+                                    DesignatorBase(
+                                     niz2
+                                    ) [DesignatorBase]
+                                    Assignop(
+                                    ) [Assignop]
+                                    ExprRec(
+                                      ExprBase(
+                                        TermBase(
+                                          SignedFactorPos(
+                                            FactorDes(
+                                              DesignatorBase(
+                                               niz2
+                                              ) [DesignatorBase]
+                                            ) [FactorDes]
+                                          ) [SignedFactorPos]
+                                        ) [TermBase]
+                                      ) [ExprBase]
+                                      AddopPlus(
+                                      ) [AddopPlus]
+                                      TermRec(
+                                        TermBase(
+                                          SignedFactorPos(
+                                            FactorDes(
+                                              DesignatorArr(
+                                                DesignatorName(
+                                                 niz
+                                                ) [DesignatorName]
+                                                ExprBase(
+                                                  TermBase(
+                                                    SignedFactorPos(
+                                                      FactorDes(
+                                                        DesignatorBase(
+                                                         i
+                                                        ) [DesignatorBase]
+                                                      ) [FactorDes]
+                                                    ) [SignedFactorPos]
+                                                  ) [TermBase]
+                                                ) [ExprBase]
+                                              ) [DesignatorArr]
+                                            ) [FactorDes]
+                                          ) [SignedFactorPos]
+                                        ) [TermBase]
+                                        MulopMul(
+                                        ) [MulopMul]
+                                        SignedFactorPos(
+                                          FactorDes(
+                                            DesignatorArr(
+                                              DesignatorName(
+                                               niz
+                                              ) [DesignatorName]
+                                              ExprBase(
+                                                TermBase(
+                                                  SignedFactorPos(
+                                                    FactorDes(
+                                                      DesignatorBase(
+                                                       i
+                                                      ) [DesignatorBase]
+                                                    ) [FactorDes]
+                                                  ) [SignedFactorPos]
+                                                ) [TermBase]
+                                              ) [ExprBase]
+                                            ) [DesignatorArr]
+                                          ) [FactorDes]
+                                        ) [SignedFactorPos]
+                                      ) [TermRec]
+                                    ) [ExprRec]
+                                  ) [DesStmtAssExpr]
+                                ) [StmtDes]
+                                While(
+                                ) [While]
+                                ConditionBase(
+                                  CondTermBase(
+                                    CondFactOp(
+                                      ExprBase(
+                                        TermBase(
+                                          SignedFactorPos(
+                                            FactorDes(
+                                              DesignatorBase(
+                                               i
+                                              ) [DesignatorBase]
+                                            ) [FactorDes]
+                                          ) [SignedFactorPos]
+                                        ) [TermBase]
+                                      ) [ExprBase]
+                                      RelopLes(
+                                      ) [RelopLes]
+                                      ExprBase(
+                                        TermBase(
+                                          SignedFactorPos(
+                                            FactorConst(
+                                              ConstFN(
+                                               3
+                                              ) [ConstFN]
+                                            ) [FactorConst]
+                                          ) [SignedFactorPos]
+                                        ) [TermBase]
+                                      ) [ExprBase]
+                                    ) [CondFactOp]
+                                  ) [CondTermBase]
+                                ) [ConditionBase]
+                                DesStmtInc(
+                                  DesignatorBase(
+                                   i
+                                  ) [DesignatorBase]
+                                ) [DesStmtInc]
+                              ) [StmtDoFull]
+                            ) [StmtListRec]
+                            StmtPrint(
+                              ExprBase(
+                                TermBase(
+                                  SignedFactorPos(
+                                    FactorDes(
+                                      DesignatorBase(
+                                       niz2
+                                      ) [DesignatorBase]
+                                    ) [FactorDes]
+                                  ) [SignedFactorPos]
+                                ) [TermBase]
+                              ) [ExprBase]
+                            ) [StmtPrint]
+                          ) [StmtListRec]
+                          StmtPrint(
+                            ExprBase(
+                              TermBase(
+                                SignedFactorPos(
+                                  FactorDes(
+                                    DesignatorBase(
+                                     eol
+                                    ) [DesignatorBase]
+                                  ) [FactorDes]
+                                ) [SignedFactorPos]
+                              ) [TermBase]
+                            ) [ExprBase]
+                          ) [StmtPrint]
+                        ) [StmtListRec]
+                        StmtDes(
+                          DesStmtAssExpr(
+                            DesignatorArr(
+                              DesignatorName(
+                               niz
+                              ) [DesignatorName]
+                              ExprBase(
+                                TermBase(
+                                  SignedFactorPos(
+                                    FactorConst(
+                                      ConstFN(
+                                       0
+                                      ) [ConstFN]
+                                    ) [FactorConst]
+                                  ) [SignedFactorPos]
+                                ) [TermBase]
+                              ) [ExprBase]
+                            ) [DesignatorArr]
+                            Assignop(
+                            ) [Assignop]
+                            ExprBase(
+                              TermBase(
+                                SignedFactorPos(
+                                  FactorConst(
+                                    ConstFN(
+                                     1
+                                    ) [ConstFN]
+                                  ) [FactorConst]
+                                ) [SignedFactorPos]
+                              ) [TermBase]
+                            ) [ExprBase]
+                          ) [DesStmtAssExpr]
+                        ) [StmtDes]
+                      ) [StmtListRec]
+                      StmtDes(
+                        DesStmtAssExpr(
+                          DesignatorArr(
+                            DesignatorName(
+                             niz
+                            ) [DesignatorName]
+                            ExprBase(
+                              TermBase(
+                                SignedFactorPos(
+                                  FactorConst(
+                                    ConstFN(
+                                     1
+                                    ) [ConstFN]
+                                  ) [FactorConst]
+                                ) [SignedFactorPos]
+                              ) [TermBase]
+                            ) [ExprBase]
+                          ) [DesignatorArr]
+                          Assignop(
+                          ) [Assignop]
+                          ExprBase(
+                            TermBase(
+                              SignedFactorPos(
+                                FactorConst(
+                                  ConstFN(
+                                   2
+                                  ) [ConstFN]
+                                ) [FactorConst]
+                              ) [SignedFactorPos]
+                            ) [TermBase]
+                          ) [ExprBase]
+                        ) [DesStmtAssExpr]
+                      ) [StmtDes]
+                    ) [StmtListRec]
+                    StmtDes(
+                      DesStmtAssExpr(
+                        DesignatorArr(
+                          DesignatorName(
+                           niz
+                          ) [DesignatorName]
+                          ExprBase(
+                            TermBase(
+                              SignedFactorPos(
+                                FactorConst(
+                                  ConstFN(
+                                   2
+                                  ) [ConstFN]
+                                ) [FactorConst]
+                              ) [SignedFactorPos]
+                            ) [TermBase]
+                          ) [ExprBase]
+                        ) [DesignatorArr]
+                        Assignop(
+                        ) [Assignop]
+                        ExprBase(
+                          TermBase(
+                            SignedFactorPos(
+                              FactorConst(
+                                ConstFN(
+                                 3
+                                ) [ConstFN]
+                              ) [FactorConst]
+                            ) [SignedFactorPos]
+                          ) [TermBase]
+                        ) [ExprBase]
+                      ) [DesStmtAssExpr]
+                    ) [StmtDes]
+                  ) [StmtListRec]
+                  StmtDes(
+                    DesStmtAssExpr(
+                      DesignatorBase(
+                       i
+                      ) [DesignatorBase]
+                      Assignop(
+                      ) [Assignop]
+                      ExprMap(
+                        DesignatorBase(
+                         f1
+                        ) [DesignatorBase]
+                        DesignatorBase(
+                         niz
+                        ) [DesignatorBase]
+                      ) [ExprMap]
+                    ) [DesStmtAssExpr]
+                  ) [StmtDes]
+                ) [StmtListRec]
+                StmtPrint(
+                  ExprBase(
+                    TermBase(
+                      SignedFactorPos(
+                        FactorDes(
+                          DesignatorBase(
+                           i
+                          ) [DesignatorBase]
+                        ) [FactorDes]
+                      ) [SignedFactorPos]
+                    ) [TermBase]
+                  ) [ExprBase]
+                ) [StmtPrint]
+              ) [StmtListRec]
+              StmtPrint(
+                ExprBase(
+                  TermBase(
+                    SignedFactorPos(
+                      FactorDes(
+                        DesignatorBase(
+                         eol
+                        ) [DesignatorBase]
+                      ) [FactorDes]
+                    ) [SignedFactorPos]
+                  ) [TermBase]
+                ) [ExprBase]
+              ) [StmtPrint]
+            ) [StmtListRec]
+            StmtDes(
+              DesStmtAssExpr(
+                DesignatorBase(
+                 i
+                ) [DesignatorBase]
+                Assignop(
+                ) [Assignop]
+                ExprBase(
+                  TermBase(
+                    SignedFactorPos(
+                      FactorPars(
+                        DesignatorBase(
+                         f1
+                        ) [DesignatorBase]
+                        ParenParsPars(
+                          ActParsBase(
+                            ExprMap(
+                              DesignatorBase(
+                               f1
+                              ) [DesignatorBase]
+                              DesignatorBase(
+                               niz
+                              ) [DesignatorBase]
+                            ) [ExprMap]
+                          ) [ActParsBase]
+                        ) [ParenParsPars]
+                      ) [FactorPars]
+                    ) [SignedFactorPos]
+                  ) [TermBase]
+                ) [ExprBase]
+              ) [DesStmtAssExpr]
+            ) [StmtDes]
+          ) [StmtListRec]
+          StmtPrint(
+            ExprBase(
+              TermBase(
+                SignedFactorPos(
+                  FactorDes(
+                    DesignatorBase(
+                     i
+                    ) [DesignatorBase]
+                  ) [FactorDes]
+                ) [SignedFactorPos]
+              ) [TermBase]
+            ) [ExprBase]
+          ) [StmtPrint]
+        ) [StmtListRec]
+        StmtPrint(
+          ExprBase(
+            TermBase(
+              SignedFactorPos(
+                FactorDes(
+                  DesignatorBase(
+                   eol
+                  ) [DesignatorBase]
+                ) [FactorDes]
+              ) [SignedFactorPos]
+            ) [TermBase]
+          ) [ExprBase]
+        ) [StmtPrint]
+      ) [StmtListRec]
+    ) [MethodDecl]
+  ) [MethDeclListRec]
+) [Program]
+INFO  09:15:23,588 - =====================================================================
+INFO  09:15:23,604 - Parsing COMPLETE
